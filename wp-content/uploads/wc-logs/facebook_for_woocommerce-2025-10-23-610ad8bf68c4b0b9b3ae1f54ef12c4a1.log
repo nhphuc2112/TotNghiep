@@ -1,0 +1,5 @@
+2025-10-23T00:05:40+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-23T00:05:48+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-23T00:05:48+00:00 WARNING Product feed scheduling failed: Integration not configured. : {"flow_name":"product_feed","flow_step":"schedule_feed_generation"}
+2025-10-23T00:22:40+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-23T00:31:11+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []

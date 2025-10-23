@@ -1,0 +1,34 @@
+<wpml-config>
+    <custom-types>
+        <custom-type translate="1">tbay_brand</custom-type>
+        <custom-type translate="1">tbay_footer</custom-type>
+        <custom-type translate="1">tbay_megamenu</custom-type>
+        <custom-type translate="1">tbay_testimonial</custom-type>
+    </custom-types>
+    <admin-texts>
+        <key name="cena_tbay_theme_options">
+            <key name="footer_type"/>
+            <key name="header_type"/>
+            <key name="copyright_text"/>
+            <key name="menu_mobile_title"/>
+            <key name="menu_social_slides">
+                <key name="0">
+                <key name="url"/>
+                </key>
+                <key name="1">
+                <key name="url"/>
+                </key>
+                <key name="2">
+                <key name="url"/>
+                </key>
+                <key name="3">
+                <key name="url"/>
+                </key>
+            </key>
+            <key name="menu_mobile_tab_one"/>
+            <key name="menu_mobile_tab_scond"/>
+            <key name="sale_tag_custom"/>
+            <key name="custom_label_featured"/>
+        </key>
+    </admin-texts>
+</wpml-config>

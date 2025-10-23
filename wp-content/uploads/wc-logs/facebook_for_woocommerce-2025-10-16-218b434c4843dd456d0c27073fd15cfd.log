@@ -1,0 +1,412 @@
+2025-10-16T00:26:13+00:00 WARNING Product feed scheduling failed: Integration not configured. : {"flow_name":"product_feed","flow_step":"schedule_feed_generation"}
+2025-10-16T00:26:22+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T00:39:12+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T00:39:19+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T00:43:27+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T00:47:29+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T00:53:32+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T00:57:34+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T01:03:38+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T01:07:39+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T01:13:42+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T01:15:47+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T01:21:49+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T01:27:12+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T01:33:53+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T01:37:54+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T01:43:58+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T01:47:58+00:00 WARNING Product feed scheduling failed: Integration not configured. : {"flow_name":"product_feed","flow_step":"schedule_feed_generation"}
+2025-10-16T01:47:58+00:00 ERROR Error persisting error logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T01:47:58+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T01:54:01+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T01:58:04+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T02:02:05+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T02:06:11+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T02:12:11+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T02:16:03+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T02:22:14+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T02:26:28+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T02:32:19+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T02:38:21+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T02:42:24+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T02:48:27+00:00 NOTICE Unable to detect valid feed configuration: No catalog ID
+2025-10-16T02:48:27+00:00 NOTICE There was an error trying to get product set data in a catalog: Cannot create the API instance because the access token is missing.
+2025-10-16T02:48:27+00:00 ERROR ProductSetSync exception: exception_code : 0; exception_class : WooCommerce\Facebook\Framework\Api\Exception: exception_message : Cannot create the API instance because the access token is missing.; exception_trace : #0 /home/dichvup1/public_html/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(139): WC_Facebookcommerce->get_api()
+#1 /home/dichvup1/public_html/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(226): WooCommerce\Facebook\ProductSets\ProductSetSync->get_fb_product_set_id()
+#2 /home/dichvup1/public_html/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(107): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_wc_product_categories()
+#3 /home/dichvup1/public_html/wp-includes/class-wp-hook.php(324): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_product_sets()
+#4 /home/dichvup1/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#5 /home/dichvup1/public_html/wp-includes/plugin.php(565): WP_Hook->do_action()
+#6 /home/dichvup1/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/actions/ActionScheduler_Action.php(86): do_action_ref_array()
+#7 /home/dichvup1/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php(103): ActionScheduler_Action->execute()
+#8 /home/dichvup1/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(188): ActionScheduler_Abstract_QueueRunner->process_action()
+#9 /home/dichvup1/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(158): ActionScheduler_QueueRunner->do_batch()
+#10 /home/dichvup1/public_html/wp-includes/class-wp-hook.php(324): ActionScheduler_QueueRunner->run()
+#11 /home/dichvup1/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#12 /home/dichvup1/public_html/wp-includes/plugin.php(565): WP_Hook->do_action()
+#13 /home/dichvup1/public_html/wp-cron.php(191): do_action_ref_array()
+#14 {main}
+2025-10-16T02:48:27+00:00 NOTICE There was an error trying to get product set data in a catalog: Cannot create the API instance because the access token is missing.
+2025-10-16T02:48:27+00:00 ERROR ProductSetSync exception: exception_code : 0; exception_class : WooCommerce\Facebook\Framework\Api\Exception: exception_message : Cannot create the API instance because the access token is missing.; exception_trace : #0 /home/dichvup1/public_html/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(139): WC_Facebookcommerce->get_api()
+#1 /home/dichvup1/public_html/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(226): WooCommerce\Facebook\ProductSets\ProductSetSync->get_fb_product_set_id()
+#2 /home/dichvup1/public_html/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(107): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_wc_product_categories()
+#3 /home/dichvup1/public_html/wp-includes/class-wp-hook.php(324): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_product_sets()
+#4 /home/dichvup1/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#5 /home/dichvup1/public_html/wp-includes/plugin.php(565): WP_Hook->do_action()
+#6 /home/dichvup1/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/actions/ActionScheduler_Action.php(86): do_action_ref_array()
+#7 /home/dichvup1/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php(103): ActionScheduler_Action->execute()
+#8 /home/dichvup1/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(188): ActionScheduler_Abstract_QueueRunner->process_action()
+#9 /home/dichvup1/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(158): ActionScheduler_QueueRunner->do_batch()
+#10 /home/dichvup1/public_html/wp-includes/class-wp-hook.php(324): ActionScheduler_QueueRunner->run()
+#11 /home/dichvup1/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#12 /home/dichvup1/public_html/wp-includes/plugin.php(565): WP_Hook->do_action()
+#13 /home/dichvup1/public_html/wp-cron.php(191): do_action_ref_array()
+#14 {main}
+2025-10-16T02:48:27+00:00 NOTICE There was an error trying to get product set data in a catalog: Cannot create the API instance because the access token is missing.
+2025-10-16T02:48:27+00:00 ERROR ProductSetSync exception: exception_code : 0; exception_class : WooCommerce\Facebook\Framework\Api\Exception: exception_message : Cannot create the API instance because the access token is missing.; exception_trace : #0 /home/dichvup1/public_html/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(139): WC_Facebookcommerce->get_api()
+#1 /home/dichvup1/public_html/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(226): WooCommerce\Facebook\ProductSets\ProductSetSync->get_fb_product_set_id()
+#2 /home/dichvup1/public_html/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(107): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_wc_product_categories()
+#3 /home/dichvup1/public_html/wp-includes/class-wp-hook.php(324): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_product_sets()
+#4 /home/dichvup1/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#5 /home/dichvup1/public_html/wp-includes/plugin.php(565): WP_Hook->do_action()
+#6 /home/dichvup1/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/actions/ActionScheduler_Action.php(86): do_action_ref_array()
+#7 /home/dichvup1/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php(103): ActionScheduler_Action->execute()
+#8 /home/dichvup1/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(188): ActionScheduler_Abstract_QueueRunner->process_action()
+#9 /home/dichvup1/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(158): ActionScheduler_QueueRunner->do_batch()
+#10 /home/dichvup1/public_html/wp-includes/class-wp-hook.php(324): ActionScheduler_QueueRunner->run()
+#11 /home/dichvup1/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#12 /home/dichvup1/public_html/wp-includes/plugin.php(565): WP_Hook->do_action()
+#13 /home/dichvup1/public_html/wp-cron.php(191): do_action_ref_array()
+#14 {main}
+2025-10-16T02:48:27+00:00 NOTICE There was an error trying to get product set data in a catalog: Cannot create the API instance because the access token is missing.
+2025-10-16T02:48:27+00:00 ERROR ProductSetSync exception: exception_code : 0; exception_class : WooCommerce\Facebook\Framework\Api\Exception: exception_message : Cannot create the API instance because the access token is missing.; exception_trace : #0 /home/dichvup1/public_html/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(139): WC_Facebookcommerce->get_api()
+#1 /home/dichvup1/public_html/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(226): WooCommerce\Facebook\ProductSets\ProductSetSync->get_fb_product_set_id()
+#2 /home/dichvup1/public_html/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(107): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_wc_product_categories()
+#3 /home/dichvup1/public_html/wp-includes/class-wp-hook.php(324): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_product_sets()
+#4 /home/dichvup1/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#5 /home/dichvup1/public_html/wp-includes/plugin.php(565): WP_Hook->do_action()
+#6 /home/dichvup1/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/actions/ActionScheduler_Action.php(86): do_action_ref_array()
+#7 /home/dichvup1/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php(103): ActionScheduler_Action->execute()
+#8 /home/dichvup1/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(188): ActionScheduler_Abstract_QueueRunner->process_action()
+#9 /home/dichvup1/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(158): ActionScheduler_QueueRunner->do_batch()
+#10 /home/dichvup1/public_html/wp-includes/class-wp-hook.php(324): ActionScheduler_QueueRunner->run()
+#11 /home/dichvup1/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#12 /home/dichvup1/public_html/wp-includes/plugin.php(565): WP_Hook->do_action()
+#13 /home/dichvup1/public_html/wp-cron.php(191): do_action_ref_array()
+#14 {main}
+2025-10-16T02:48:27+00:00 NOTICE There was an error trying to get product set data in a catalog: Cannot create the API instance because the access token is missing.
+2025-10-16T02:48:27+00:00 ERROR ProductSetSync exception: exception_code : 0; exception_class : WooCommerce\Facebook\Framework\Api\Exception: exception_message : Cannot create the API instance because the access token is missing.; exception_trace : #0 /home/dichvup1/public_html/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(139): WC_Facebookcommerce->get_api()
+#1 /home/dichvup1/public_html/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(226): WooCommerce\Facebook\ProductSets\ProductSetSync->get_fb_product_set_id()
+#2 /home/dichvup1/public_html/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(107): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_wc_product_categories()
+#3 /home/dichvup1/public_html/wp-includes/class-wp-hook.php(324): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_product_sets()
+#4 /home/dichvup1/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#5 /home/dichvup1/public_html/wp-includes/plugin.php(565): WP_Hook->do_action()
+#6 /home/dichvup1/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/actions/ActionScheduler_Action.php(86): do_action_ref_array()
+#7 /home/dichvup1/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php(103): ActionScheduler_Action->execute()
+#8 /home/dichvup1/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(188): ActionScheduler_Abstract_QueueRunner->process_action()
+#9 /home/dichvup1/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(158): ActionScheduler_QueueRunner->do_batch()
+#10 /home/dichvup1/public_html/wp-includes/class-wp-hook.php(324): ActionScheduler_QueueRunner->run()
+#11 /home/dichvup1/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#12 /home/dichvup1/public_html/wp-includes/plugin.php(565): WP_Hook->do_action()
+#13 /home/dichvup1/public_html/wp-cron.php(191): do_action_ref_array()
+#14 {main}
+2025-10-16T02:48:27+00:00 NOTICE There was an error trying to get product set data in a catalog: Cannot create the API instance because the access token is missing.
+2025-10-16T02:48:27+00:00 ERROR ProductSetSync exception: exception_code : 0; exception_class : WooCommerce\Facebook\Framework\Api\Exception: exception_message : Cannot create the API instance because the access token is missing.; exception_trace : #0 /home/dichvup1/public_html/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(139): WC_Facebookcommerce->get_api()
+#1 /home/dichvup1/public_html/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(226): WooCommerce\Facebook\ProductSets\ProductSetSync->get_fb_product_set_id()
+#2 /home/dichvup1/public_html/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(107): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_wc_product_categories()
+#3 /home/dichvup1/public_html/wp-includes/class-wp-hook.php(324): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_product_sets()
+#4 /home/dichvup1/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#5 /home/dichvup1/public_html/wp-includes/plugin.php(565): WP_Hook->do_action()
+#6 /home/dichvup1/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/actions/ActionScheduler_Action.php(86): do_action_ref_array()
+#7 /home/dichvup1/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php(103): ActionScheduler_Action->execute()
+#8 /home/dichvup1/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(188): ActionScheduler_Abstract_QueueRunner->process_action()
+#9 /home/dichvup1/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(158): ActionScheduler_QueueRunner->do_batch()
+#10 /home/dichvup1/public_html/wp-includes/class-wp-hook.php(324): ActionScheduler_QueueRunner->run()
+#11 /home/dichvup1/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#12 /home/dichvup1/public_html/wp-includes/plugin.php(565): WP_Hook->do_action()
+#13 /home/dichvup1/public_html/wp-cron.php(191): do_action_ref_array()
+#14 {main}
+2025-10-16T02:48:27+00:00 NOTICE There was an error trying to get product set data in a catalog: Cannot create the API instance because the access token is missing.
+2025-10-16T02:48:27+00:00 ERROR ProductSetSync exception: exception_code : 0; exception_class : WooCommerce\Facebook\Framework\Api\Exception: exception_message : Cannot create the API instance because the access token is missing.; exception_trace : #0 /home/dichvup1/public_html/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(139): WC_Facebookcommerce->get_api()
+#1 /home/dichvup1/public_html/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(226): WooCommerce\Facebook\ProductSets\ProductSetSync->get_fb_product_set_id()
+#2 /home/dichvup1/public_html/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(107): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_wc_product_categories()
+#3 /home/dichvup1/public_html/wp-includes/class-wp-hook.php(324): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_product_sets()
+#4 /home/dichvup1/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#5 /home/dichvup1/public_html/wp-includes/plugin.php(565): WP_Hook->do_action()
+#6 /home/dichvup1/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/actions/ActionScheduler_Action.php(86): do_action_ref_array()
+#7 /home/dichvup1/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php(103): ActionScheduler_Action->execute()
+#8 /home/dichvup1/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(188): ActionScheduler_Abstract_QueueRunner->process_action()
+#9 /home/dichvup1/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(158): ActionScheduler_QueueRunner->do_batch()
+#10 /home/dichvup1/public_html/wp-includes/class-wp-hook.php(324): ActionScheduler_QueueRunner->run()
+#11 /home/dichvup1/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#12 /home/dichvup1/public_html/wp-includes/plugin.php(565): WP_Hook->do_action()
+#13 /home/dichvup1/public_html/wp-cron.php(191): do_action_ref_array()
+#14 {main}
+2025-10-16T02:48:27+00:00 NOTICE There was an error trying to get product set data in a catalog: Cannot create the API instance because the access token is missing.
+2025-10-16T02:48:27+00:00 ERROR ProductSetSync exception: exception_code : 0; exception_class : WooCommerce\Facebook\Framework\Api\Exception: exception_message : Cannot create the API instance because the access token is missing.; exception_trace : #0 /home/dichvup1/public_html/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(139): WC_Facebookcommerce->get_api()
+#1 /home/dichvup1/public_html/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(226): WooCommerce\Facebook\ProductSets\ProductSetSync->get_fb_product_set_id()
+#2 /home/dichvup1/public_html/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(107): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_wc_product_categories()
+#3 /home/dichvup1/public_html/wp-includes/class-wp-hook.php(324): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_product_sets()
+#4 /home/dichvup1/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#5 /home/dichvup1/public_html/wp-includes/plugin.php(565): WP_Hook->do_action()
+#6 /home/dichvup1/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/actions/ActionScheduler_Action.php(86): do_action_ref_array()
+#7 /home/dichvup1/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php(103): ActionScheduler_Action->execute()
+#8 /home/dichvup1/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(188): ActionScheduler_Abstract_QueueRunner->process_action()
+#9 /home/dichvup1/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(158): ActionScheduler_QueueRunner->do_batch()
+#10 /home/dichvup1/public_html/wp-includes/class-wp-hook.php(324): ActionScheduler_QueueRunner->run()
+#11 /home/dichvup1/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#12 /home/dichvup1/public_html/wp-includes/plugin.php(565): WP_Hook->do_action()
+#13 /home/dichvup1/public_html/wp-cron.php(191): do_action_ref_array()
+#14 {main}
+2025-10-16T02:48:27+00:00 NOTICE There was an error trying to get product set data in a catalog: Cannot create the API instance because the access token is missing.
+2025-10-16T02:48:27+00:00 ERROR ProductSetSync exception: exception_code : 0; exception_class : WooCommerce\Facebook\Framework\Api\Exception: exception_message : Cannot create the API instance because the access token is missing.; exception_trace : #0 /home/dichvup1/public_html/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(139): WC_Facebookcommerce->get_api()
+#1 /home/dichvup1/public_html/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(226): WooCommerce\Facebook\ProductSets\ProductSetSync->get_fb_product_set_id()
+#2 /home/dichvup1/public_html/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(107): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_wc_product_categories()
+#3 /home/dichvup1/public_html/wp-includes/class-wp-hook.php(324): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_product_sets()
+#4 /home/dichvup1/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#5 /home/dichvup1/public_html/wp-includes/plugin.php(565): WP_Hook->do_action()
+#6 /home/dichvup1/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/actions/ActionScheduler_Action.php(86): do_action_ref_array()
+#7 /home/dichvup1/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php(103): ActionScheduler_Action->execute()
+#8 /home/dichvup1/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(188): ActionScheduler_Abstract_QueueRunner->process_action()
+#9 /home/dichvup1/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(158): ActionScheduler_QueueRunner->do_batch()
+#10 /home/dichvup1/public_html/wp-includes/class-wp-hook.php(324): ActionScheduler_QueueRunner->run()
+#11 /home/dichvup1/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#12 /home/dichvup1/public_html/wp-includes/plugin.php(565): WP_Hook->do_action()
+#13 /home/dichvup1/public_html/wp-cron.php(191): do_action_ref_array()
+#14 {main}
+2025-10-16T02:48:27+00:00 NOTICE There was an error trying to get product set data in a catalog: Cannot create the API instance because the access token is missing.
+2025-10-16T02:48:27+00:00 ERROR ProductSetSync exception: exception_code : 0; exception_class : WooCommerce\Facebook\Framework\Api\Exception: exception_message : Cannot create the API instance because the access token is missing.; exception_trace : #0 /home/dichvup1/public_html/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(139): WC_Facebookcommerce->get_api()
+#1 /home/dichvup1/public_html/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(226): WooCommerce\Facebook\ProductSets\ProductSetSync->get_fb_product_set_id()
+#2 /home/dichvup1/public_html/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(107): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_wc_product_categories()
+#3 /home/dichvup1/public_html/wp-includes/class-wp-hook.php(324): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_product_sets()
+#4 /home/dichvup1/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#5 /home/dichvup1/public_html/wp-includes/plugin.php(565): WP_Hook->do_action()
+#6 /home/dichvup1/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/actions/ActionScheduler_Action.php(86): do_action_ref_array()
+#7 /home/dichvup1/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php(103): ActionScheduler_Action->execute()
+#8 /home/dichvup1/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(188): ActionScheduler_Abstract_QueueRunner->process_action()
+#9 /home/dichvup1/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(158): ActionScheduler_QueueRunner->do_batch()
+#10 /home/dichvup1/public_html/wp-includes/class-wp-hook.php(324): ActionScheduler_QueueRunner->run()
+#11 /home/dichvup1/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#12 /home/dichvup1/public_html/wp-includes/plugin.php(565): WP_Hook->do_action()
+#13 /home/dichvup1/public_html/wp-cron.php(191): do_action_ref_array()
+#14 {main}
+2025-10-16T02:48:27+00:00 NOTICE There was an error trying to get product set data in a catalog: Cannot create the API instance because the access token is missing.
+2025-10-16T02:48:27+00:00 ERROR ProductSetSync exception: exception_code : 0; exception_class : WooCommerce\Facebook\Framework\Api\Exception: exception_message : Cannot create the API instance because the access token is missing.; exception_trace : #0 /home/dichvup1/public_html/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(139): WC_Facebookcommerce->get_api()
+#1 /home/dichvup1/public_html/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(226): WooCommerce\Facebook\ProductSets\ProductSetSync->get_fb_product_set_id()
+#2 /home/dichvup1/public_html/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(107): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_wc_product_categories()
+#3 /home/dichvup1/public_html/wp-includes/class-wp-hook.php(324): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_product_sets()
+#4 /home/dichvup1/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#5 /home/dichvup1/public_html/wp-includes/plugin.php(565): WP_Hook->do_action()
+#6 /home/dichvup1/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/actions/ActionScheduler_Action.php(86): do_action_ref_array()
+#7 /home/dichvup1/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php(103): ActionScheduler_Action->execute()
+#8 /home/dichvup1/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(188): ActionScheduler_Abstract_QueueRunner->process_action()
+#9 /home/dichvup1/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(158): ActionScheduler_QueueRunner->do_batch()
+#10 /home/dichvup1/public_html/wp-includes/class-wp-hook.php(324): ActionScheduler_QueueRunner->run()
+#11 /home/dichvup1/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#12 /home/dichvup1/public_html/wp-includes/plugin.php(565): WP_Hook->do_action()
+#13 /home/dichvup1/public_html/wp-cron.php(191): do_action_ref_array()
+#14 {main}
+2025-10-16T02:48:27+00:00 NOTICE There was an error trying to get product set data in a catalog: Cannot create the API instance because the access token is missing.
+2025-10-16T02:48:27+00:00 ERROR ProductSetSync exception: exception_code : 0; exception_class : WooCommerce\Facebook\Framework\Api\Exception: exception_message : Cannot create the API instance because the access token is missing.; exception_trace : #0 /home/dichvup1/public_html/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(139): WC_Facebookcommerce->get_api()
+#1 /home/dichvup1/public_html/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(226): WooCommerce\Facebook\ProductSets\ProductSetSync->get_fb_product_set_id()
+#2 /home/dichvup1/public_html/wp-content/plugins/facebook-for-woocommerce/includes/ProductSets/ProductSetSync.php(107): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_wc_product_categories()
+#3 /home/dichvup1/public_html/wp-includes/class-wp-hook.php(324): WooCommerce\Facebook\ProductSets\ProductSetSync->sync_all_product_sets()
+#4 /home/dichvup1/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#5 /home/dichvup1/public_html/wp-includes/plugin.php(565): WP_Hook->do_action()
+#6 /home/dichvup1/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/actions/ActionScheduler_Action.php(86): do_action_ref_array()
+#7 /home/dichvup1/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php(103): ActionScheduler_Action->execute()
+#8 /home/dichvup1/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(188): ActionScheduler_Abstract_QueueRunner->process_action()
+#9 /home/dichvup1/public_html/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_QueueRunner.php(158): ActionScheduler_QueueRunner->do_batch()
+#10 /home/dichvup1/public_html/wp-includes/class-wp-hook.php(324): ActionScheduler_QueueRunner->run()
+#11 /home/dichvup1/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#12 /home/dichvup1/public_html/wp-includes/plugin.php(565): WP_Hook->do_action()
+#13 /home/dichvup1/public_html/wp-cron.php(191): do_action_ref_array()
+#14 {main}
+2025-10-16T02:48:27+00:00 WARNING Product feed scheduling failed: Integration not configured. : {"flow_name":"product_feed","flow_step":"schedule_feed_generation"}
+2025-10-16T02:48:27+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T02:52:28+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T02:55:42+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T03:02:33+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T03:08:37+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T03:12:38+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T03:16:44+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T03:47:12+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T03:55:52+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T04:04:08+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T04:13:12+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T04:22:46+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T04:51:45+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T04:51:45+00:00 WARNING Product feed scheduling failed: Integration not configured. : {"flow_name":"product_feed","flow_step":"schedule_feed_generation"}
+2025-10-16T04:51:45+00:00 ERROR Error persisting error logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T05:30:45+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T05:45:39+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T06:03:19+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T06:03:25+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T06:06:41+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T06:14:11+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T06:16:27+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T06:26:21+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T06:32:27+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T06:37:45+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T06:42:28+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T06:47:05+00:00 WARNING Product feed scheduling failed: Integration not configured. : {"flow_name":"product_feed","flow_step":"schedule_feed_generation"}
+2025-10-16T06:47:05+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T06:52:10+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T06:58:43+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T07:02:19+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T07:07:14+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T07:11:03+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T07:16:35+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T07:22:39+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T07:26:17+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T07:32:28+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T07:36:20+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T07:42:46+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T07:46:05+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T07:53:23+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T07:56:44+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T08:02:19+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T08:06:27+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T08:19:33+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T08:28:28+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T08:28:35+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T08:46:39+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T08:46:39+00:00 WARNING Product feed scheduling failed: Integration not configured. : {"flow_name":"product_feed","flow_step":"schedule_feed_generation"}
+2025-10-16T08:46:39+00:00 ERROR Error persisting error logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T09:01:19+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T09:15:36+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T09:15:44+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T09:23:47+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T09:25:44+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T09:31:06+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T09:36:05+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T09:41:06+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T09:50:17+00:00 WARNING Product feed scheduling failed: Integration not configured. : {"flow_name":"product_feed","flow_step":"schedule_feed_generation"}
+2025-10-16T09:50:17+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T09:51:41+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T09:57:52+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T10:15:57+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T10:15:57+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T10:23:50+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T10:23:50+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T10:27:39+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T10:39:51+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T10:39:59+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T10:45:02+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T10:49:51+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T10:57:50+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T11:03:13+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T11:06:40+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T11:11:39+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T11:16:32+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T11:32:21+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T11:32:28+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T11:41:11+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T11:47:55+00:00 WARNING Product feed scheduling failed: Integration not configured. : {"flow_name":"product_feed","flow_step":"schedule_feed_generation"}
+2025-10-16T11:47:55+00:00 ERROR Error persisting error logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T11:47:55+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T11:57:51+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T11:57:59+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T12:01:03+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T12:15:44+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T12:26:00+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T12:44:00+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T12:48:03+00:00 WARNING Product feed scheduling failed: Integration not configured. : {"flow_name":"product_feed","flow_step":"schedule_feed_generation"}
+2025-10-16T12:48:03+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T12:52:13+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T12:58:28+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T13:07:43+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T13:21:23+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T13:26:13+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T13:37:03+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T13:37:09+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T13:46:33+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T13:56:03+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T14:01:50+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T14:09:12+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T14:15:31+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T14:15:37+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T14:27:29+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T14:37:29+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T14:45:49+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T14:45:49+00:00 WARNING Product feed scheduling failed: Integration not configured. : {"flow_name":"product_feed","flow_step":"schedule_feed_generation"}
+2025-10-16T15:12:24+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T15:22:08+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T15:28:23+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T15:37:00+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T15:42:24+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T15:47:37+00:00 WARNING Product feed scheduling failed: Integration not configured. : {"flow_name":"product_feed","flow_step":"schedule_feed_generation"}
+2025-10-16T15:47:37+00:00 ERROR Error persisting error logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T15:47:37+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T16:08:44+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T16:17:26+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T16:17:32+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T16:32:09+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T16:37:10+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T16:44:50+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T16:50:57+00:00 WARNING Product feed scheduling failed: Integration not configured. : {"flow_name":"product_feed","flow_step":"schedule_feed_generation"}
+2025-10-16T16:50:57+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T16:57:22+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T17:28:18+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T17:28:25+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T17:44:32+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T17:46:40+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T17:59:52+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T18:05:34+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T18:05:42+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T18:18:21+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T18:42:54+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T19:11:13+00:00 WARNING Product feed scheduling failed: Integration not configured. : {"flow_name":"product_feed","flow_step":"schedule_feed_generation"}
+2025-10-16T19:11:13+00:00 ERROR Error persisting error logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T19:11:13+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T19:11:19+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T19:30:41+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T19:39:00+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T19:47:57+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T19:59:47+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T20:04:19+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T20:09:40+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T20:16:03+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T20:25:32+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T20:25:39+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T20:37:32+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T20:46:37+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T20:46:43+00:00 WARNING Product feed scheduling failed: Integration not configured. : {"flow_name":"product_feed","flow_step":"schedule_feed_generation"}
+2025-10-16T20:46:43+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T20:52:27+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T21:00:22+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T21:04:58+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T21:09:26+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T21:18:32+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T21:18:32+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T21:30:28+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T21:30:35+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T21:30:43+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T21:36:26+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T21:47:49+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T21:47:54+00:00 WARNING Product feed scheduling failed: Integration not configured. : {"flow_name":"product_feed","flow_step":"schedule_feed_generation"}
+2025-10-16T21:47:54+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T21:55:31+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T21:55:37+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T22:00:40+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T22:14:17+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T22:16:02+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T22:21:08+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T22:26:08+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T22:35:43+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T22:35:52+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T22:47:59+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T22:48:06+00:00 WARNING Product feed scheduling failed: Integration not configured. : {"flow_name":"product_feed","flow_step":"schedule_feed_generation"}
+2025-10-16T22:48:06+00:00 ERROR Error persisting error logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T22:48:06+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T22:54:43+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T22:58:34+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T23:05:48+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T23:19:29+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T23:30:10+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T23:34:14+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T23:36:05+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T23:41:15+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T23:47:28+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T23:53:50+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-10-16T23:57:27+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []

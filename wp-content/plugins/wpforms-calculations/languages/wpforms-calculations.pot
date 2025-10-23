@@ -1,0 +1,376 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPForms Calculations 1.7.0\n"
+"Report-Msgid-Bugs-To: https://wpforms.com/support/\n"
+"Last-Translator: WPForms <support@wpforms.com>\n"
+"Language-Team: WPForms <support@wpforms.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-07-01T13:22:43+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: wpforms-calculations\n"
+
+#. Plugin Name of the plugin
+msgid "WPForms Calculations"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://wpforms.com"
+msgstr ""
+
+#. Description of the plugin
+msgid "Adds calculations feature to WPForms."
+msgstr ""
+
+#. Author of the plugin
+msgid "WPForms"
+msgstr ""
+
+#: src/Admin/Ajax.php:119
+#: src/AI/Admin/Ajax/Calculations.php:63
+msgid "Your session expired. Please reload the builder."
+msgstr ""
+
+#: src/Admin/Ajax.php:124
+msgid "You are not allowed to perform this action."
+msgstr ""
+
+#: src/Admin/Ajax.php:131
+msgid "Something went wrong while performing this action."
+msgstr ""
+
+#: src/Admin/Builder.php:122
+#: src/Admin/Builder.php:425
+msgid "Generate Formula"
+msgstr ""
+
+#: src/Admin/Builder.php:123
+msgid "Describe the formula you would like to create or use one of the examples below to get started."
+msgstr ""
+
+#: src/Admin/Builder.php:124
+msgid "What would you like to create?"
+msgstr ""
+
+#: src/Admin/Builder.php:126
+msgid "Learn More About WPForms AI"
+msgstr ""
+
+#: src/Admin/Builder.php:127
+msgid "Insert Formula"
+msgstr ""
+
+#: src/Admin/Builder.php:128
+#: src/Admin/Builder.php:204
+msgid "Learn More"
+msgstr ""
+
+#: src/Admin/Builder.php:130
+msgid "<strong>What do you think of this formula?</strong> If you’re happy with it, you can insert this formula, or make changes by entering additional prompts."
+msgstr ""
+
+#. translators: 1: Link to the documentation, 2: Link closing tag.
+#: src/Admin/Builder.php:138
+msgid "If you need help generating formulas, %1$s check out our documentation%2$s."
+msgstr ""
+
+#: src/Admin/Builder.php:150
+msgid "It looks like you have some existing formulas in this field. If you generate new formulas, your existing formulas will be overwritten. You can simply close this window if you’d like to keep your existing formulas."
+msgstr ""
+
+#: src/Admin/Builder.php:151
+msgid "Just a minute..."
+msgstr ""
+
+#: src/Admin/Builder.php:155
+msgid "An error occurred while generating formula."
+msgstr ""
+
+#: src/Admin/Builder.php:156
+msgid "Sorry, you've reached your daily limit for generating formulas."
+msgstr ""
+
+#. translators: %s - WPForms contact support link.
+#: src/Admin/Builder.php:161
+msgid "You may only generate calculation formulas 50 times per day. If you believe this is an error, <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">please contact WPForms support</a>."
+msgstr ""
+
+#: src/Admin/Builder.php:174
+msgid "Prohibited code has been removed from your calculation formula."
+msgstr ""
+
+#: src/Admin/Builder.php:201
+msgid "Hi there! Describe the calculation formula you’d like to create."
+msgstr ""
+
+#: src/Admin/Builder.php:202
+msgid "For example, \"calculate the total price of items\" or \"calculate sales tax.\""
+msgstr ""
+
+#: src/Admin/Builder.php:203
+msgid "Just make sure you have the necessary fields in your form for the calculation formula you’d like."
+msgstr ""
+
+#: src/Admin/Builder.php:283
+msgid "Form Fields"
+msgstr ""
+
+#: src/Admin/Builder.php:284
+msgid "The code is correct. Click to re-validate."
+msgstr ""
+
+#: src/Admin/Builder.php:285
+msgid "The code has errors. Click to re-validate."
+msgstr ""
+
+#: src/Admin/Builder.php:286
+msgid "The validation attempt failed, there was a problem communicating with the server"
+msgstr ""
+
+#: src/Admin/Builder.php:287
+msgid "Uh oh!"
+msgstr ""
+
+#: src/Admin/Builder.php:288
+msgid "There appears to be a problem with your formula. Please fix the formula and try again"
+msgstr ""
+
+#: src/Admin/Builder.php:289
+msgid "Formula validation AJAX call error; Server response text:"
+msgstr ""
+
+#. translators: %1$s - Variable name.
+#: src/Admin/Builder.php:291
+msgid "Variable %1$s is not allowed. Only $Fx field variables are allowed."
+msgstr ""
+
+#. translators: %1$s - Field ID.
+#: src/Admin/Builder.php:293
+msgid "Variable $F%1$s cannot be used. Field with ID %1$s does not exist."
+msgstr ""
+
+#. translators: %1$s - Total field ID, %2$s - Single Item field ID.
+#: src/Admin/Builder.php:295
+msgid "Field Total (ID %1$s) could not be used in the Single Item field (ID %2$s)."
+msgstr ""
+
+#. translators: %1$s - Field ID, %2$s - field type.
+#: src/Admin/Builder.php:297
+msgid "Variable $F%1$s is not allowed. Field with ID %1$s has type \"%2$s\", which is not allowed."
+msgstr ""
+
+#. translators: %1$s - Field ID, %2$s - subfield.
+#: src/Admin/Builder.php:299
+msgid "Variable $F%1$s_%2$s is not allowed. Field with ID %1$s does not have \"%2$s\" subfield."
+msgstr ""
+
+#. translators: %1$s - Field ID.
+#: src/Admin/Builder.php:301
+msgid "The variable ($F%1$s) cannot be used because the field is inside a Repeater. Please revise and try again."
+msgstr ""
+
+#: src/Admin/Builder.php:302
+msgid "Field"
+msgstr ""
+
+#: src/Admin/Builder.php:303
+msgid "Fields"
+msgstr ""
+
+#: src/Admin/Builder.php:304
+msgid "It's used in calculation in the following field:"
+msgstr ""
+
+#: src/Admin/Builder.php:305
+msgid "It's used in calculations in the following fields:"
+msgstr ""
+
+#: src/Admin/Builder.php:306
+#: src/Admin/Builder.php:415
+msgid "AI Calculations"
+msgstr ""
+
+#: src/Admin/Builder.php:307
+msgid "Fix with AI"
+msgstr ""
+
+#: src/Admin/Builder.php:308
+msgid "Okay"
+msgstr ""
+
+#: src/Admin/Builder.php:312
+msgid "Fix my formula"
+msgstr ""
+
+#: src/Admin/Builder.php:313
+msgid "I am trying to create calculation formula for my form. When I validate my formula I am getting following errors:"
+msgstr ""
+
+#: src/Admin/Builder.php:354
+msgid "Enable Calculation"
+msgstr ""
+
+#: src/Admin/Builder.php:355
+msgid "Enable calculations for this field."
+msgstr ""
+
+#: src/Admin/Builder.php:367
+msgid "Formula"
+msgstr ""
+
+#: src/Admin/Builder.php:368
+msgid "Using your form fields as variables, enter your formula below and ensure there are no extra spaces. Validate your formula when finished."
+msgstr ""
+
+#: src/Admin/Builder.php:450
+msgid "Cheatsheet"
+msgstr ""
+
+#: src/Admin/Builder.php:456
+msgid "Insert Field"
+msgstr ""
+
+#: src/Admin/Builder.php:478
+msgid "Validate Formula"
+msgstr ""
+
+#: src/AI/Admin/Ajax/Calculations.php:71
+msgid "Please provide a prompt."
+msgstr ""
+
+#: src/AI/Admin/Ajax/Calculations.php:177
+msgid "Make sure you validate the formula in the following fields before publishing your form."
+msgstr ""
+
+#: src/AI/Admin/Ajax/Calculations.php:188
+msgid "Your Form Contains Calculations"
+msgstr ""
+
+#: src/AI/Admin/Ajax/Calculations.php:198
+msgid "Your form contains calculations."
+msgstr ""
+
+#: src/AI/Admin/Ajax/Calculations.php:199
+msgid "Make sure you validate the formulas before publishing your form."
+msgstr ""
+
+#: src/Frontend.php:147
+msgid "WPForms Calculations Debug:"
+msgstr ""
+
+#: src/Frontend.php:148
+msgid "WPForms Calculations Error:"
+msgstr ""
+
+#. translators: %1$s - Form ID; %2$s - field ID.
+#: src/Frontend.php:151
+msgid "Form: #%1$s, field #%2$s:"
+msgstr ""
+
+#. translators: %1$s - Field ID.
+#: src/Frontend.php:154
+msgid "Circular reference detected in field #%1$s."
+msgstr ""
+
+#. translators: %1$s - Field ID.
+#: src/Frontend.php:157
+msgid "Formula tried dividing by zero."
+msgstr ""
+
+#: src/Frontend.php:158
+msgid "This field is read-only because the value is the result of a calculation."
+msgstr ""
+
+#. translators: %1$s - Error location `line:column`.
+#: src/Transpiler/Transpiler.php:206
+msgid "The size of the formula exceeds %1$s chars"
+msgstr ""
+
+#: src/Transpiler/Transpiler.php:369
+msgid "null byte"
+msgstr ""
+
+#: src/Transpiler/Transpiler.php:370
+msgid "character"
+msgstr ""
+
+#. translators: %1$s - unexpected token; %2$s - error location `line:column`.
+#: src/Transpiler/Transpiler.php:379
+msgid "Unexpected %1$s on line %2$s"
+msgstr ""
+
+#: src/Transpiler/Transpiler.php:411
+#: src/Transpiler/Validator.php:652
+msgid "unknown"
+msgstr ""
+
+#: src/Transpiler/Validator.php:160
+msgid "Syntax element is not valid"
+msgstr ""
+
+#. translators: %1$s - Node type; %2$s - error location `line:column`.
+#: src/Transpiler/Validator.php:171
+msgid "Syntax element `%1$s` is not allowed on line %2$s"
+msgstr ""
+
+#. translators: %1$s - Error location `line:column`.
+#: src/Transpiler/Validator.php:217
+msgid "Only explicit function names are allowed on line %1$s"
+msgstr ""
+
+#. translators: %1$s - Function name; %2$s - error location `line:column`.
+#: src/Transpiler/Validator.php:232
+msgid "Function `%1$s` is not allowed on line %2$s"
+msgstr ""
+
+#. translators: %1$s - Function name; %2$s - error location `line:column`.
+#: src/Transpiler/Validator.php:263
+msgid "Function `%1$s` should have %2$s argument(s) on line %3$s"
+msgstr ""
+
+#. translators: %1$s - Function name; %2$s - error location `line:column`.
+#: src/Transpiler/Validator.php:281
+msgid "Function `%1$s` should have at least %2$s argument(s) on line %3$s"
+msgstr ""
+
+#. translators: %1$s - Function name; %2$s - error location `line:column`.
+#: src/Transpiler/Validator.php:302
+msgid "Function `%1$s` should have from %2$s to %3$s argument(s) on line %4$s"
+msgstr ""
+
+#. translators: %1$s - Variable name; %2$s - variable error; %3$s - error location `line:column`.
+#: src/Transpiler/Validator.php:337
+msgid "Variable $%1$s is not allowed. Only explicit variable names are allowed on line %2$s"
+msgstr ""
+
+#. translators: %1$s - Variable name; %2$s - variable error; %3$s - error location `line:column`.
+#: src/Transpiler/Validator.php:357
+msgid "Variable $%1$s is not allowed. %2$s on line %3$s"
+msgstr ""
+
+#: src/Transpiler/Validator.php:379
+msgid "Variable name is not valid"
+msgstr ""
+
+#. translators: %1$s - Field ID.
+#: src/Transpiler/Validator.php:391
+msgid "Field with ID %1$s does not exist"
+msgstr ""
+
+#. translators: %1$s - Field ID; %2$s - field type.
+#: src/Transpiler/Validator.php:424
+msgid "Field with ID %1$s has type `%2$s` which is not allowed"
+msgstr ""
+
+#. translators: %1$s - Total field ID; %2$s - Single Item field ID.
+#: src/Transpiler/Validator.php:435
+msgid "Field Total (ID %1$s) could not be used in the Single Item field (ID %2$s)"
+msgstr ""
+
+#. translators: %1$s - Field ID; %2$s - subfield slug.
+#: src/Transpiler/Validator.php:479
+msgid "Field with ID %1$s does not have subfield `%2$s`"
+msgstr ""

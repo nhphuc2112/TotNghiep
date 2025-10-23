@@ -1,0 +1,977 @@
+# Translation of Yoast - Yoast SEO Premium (for WordPress) in Vietnamese
+# This file is distributed under the same license as the Yoast - Yoast SEO Premium (for WordPress) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-07-29 20:42:19+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-rc.1\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Yoast - Yoast SEO Premium (for WordPress)\n"
+
+#: src/integrations/admin/thank-you-page-integration.php:80
+msgid "Installation Successful"
+msgstr "Cài đặt thành công"
+
+#: classes/views/thank-you.php:104
+msgid "Browse our courses"
+msgstr "Duyệt các khóa học của chúng tôi"
+
+#. translators: %1$s: Yoast SEO Premium, %2$s: <strong>, %3$s: Yoast SEO, %4$s:
+#. </strong>
+#: classes/views/thank-you.php:91
+msgid "%1$s grants you direct access to %2$sall premium %3$s academy courses%4$s. Learn all the ins and outs of holistic SEO from industry experts."
+msgstr "%1$s cấp cho bạn quyền truy cập trực tiếp vào %2$s tất cả các khóa học cao cấp của học viện%3$s%4$s. Tìm hiểu tất cả thông tin chi tiết về SEO toàn diện từ các chuyên gia trong ngành."
+
+#: classes/views/thank-you.php:84
+msgid "Master vital SEO skills with our online courses"
+msgstr "Làm chủ các kỹ năng SEO quan trọng với các khóa học trực tuyến của chúng tôi"
+
+#: classes/views/thank-you.php:79
+msgid "Check out the Redirect Manager"
+msgstr "Kiểm tra Trình quản lý chuyển hướng"
+
+#. translators: %1$s: Yoast SEO, %2$s: <strong>, %3$s: </strong>
+#: classes/views/thank-you.php:68
+msgid "The %1$s %2$sRedirect Manager%3$s automatically prevents visitors from reaching a dead end whenever you move or delete content. It also makes managing your existing redirects easy."
+msgstr "Trình quản lý chuyển hướng %1$s%2$s%3$s tự động ngăn khách truy cập vào ngõ cụt bất cứ khi nào bạn di chuyển hoặc xóa nội dung. Nó cũng giúp bạn dễ dàng quản lý các chuyển hướng hiện có."
+
+#: classes/views/thank-you.php:61
+msgid "Keep your site well-organised so people won't get lost"
+msgstr "Giữ cho trang web của bạn được tổ chức tốt để mọi người không bị lạc"
+
+#: classes/views/thank-you.php:56
+msgid "Score some more green bullets"
+msgstr "Ghi thêm một số viên đạn màu xanh lá cây"
+
+#. translators: %1$s: <strong>, %2$s: </strong>
+#: classes/views/thank-you.php:46
+msgid "Different people search with different search terms. With our %1$spremium analysis%2$s, you are free to use variations and synonyms of your keywords in your content, which will make your writing style far more natural."
+msgstr "Những người khác nhau tìm kiếm với các cụm từ tìm kiếm khác nhau. Với phân tích đặc biệt %1$s%2$s của chúng tôi, bạn có thể tự do sử dụng các biến thể và từ đồng nghĩa của từ khóa trong nội dung của mình, điều này sẽ làm cho phong cách viết của bạn tự nhiên hơn nhiều."
+
+#: classes/views/thank-you.php:39
+msgid "Optimize your content further with our smart analysis"
+msgstr "Tối ưu hóa nội dung của bạn hơn nữa với phân tích thông minh của chúng tôi"
+
+#: classes/views/thank-you.php:34
+msgid "Do the cornerstone workout!"
+msgstr "Hãy tập luyện nền tảng!"
+
+#. translators: %1$s: <strong>, %2$s: </strong>
+#: classes/views/thank-you.php:24
+msgid "%1$sCornerstone content%2$s is the content on your site that’s most important. You want to rank highest in Google with these articles. Make sure your internal linking structure reflects what pages are most important. Want to know how?"
+msgstr "%1$s Nội dung nền tảng%2$s là nội dung quan trọng nhất trên trang web của bạn. Bạn muốn xếp hạng cao nhất trong Google với những bài viết này. Đảm bảo cấu trúc liên kết nội bộ của bạn phản ánh những trang nào là quan trọng nhất. Bạn muốn biết làm thế nào?"
+
+#: assets/js/src/workouts/components/CornerstoneWorkout.js:107
+#: classes/views/thank-you.php:17
+msgid "Rank with articles you want to rank with"
+msgstr "Xếp hạng với các bài viết bạn muốn xếp hạng với"
+
+#: classes/views/thank-you.php:12
+msgid "So, what's next?"
+msgstr "Vì vậy, những gì tiếp theo?"
+
+#: classes/views/thank-you.php:10
+msgid "Installation successful!"
+msgstr "Cài đặt thành công!"
+
+#: src/integrations/admin/user-profile-integration.php:146
+msgid "The info you add below is added to the data Yoast SEO outputs in its schema.org output, for instance when you're the author of a page. Please only add the info you feel good sharing publicly."
+msgstr "Thông tin bạn thêm bên dưới được thêm vào dữ liệu Yoast SEO đầu ra trong đầu ra schema.org của nó, chẳng hạn như khi bạn là tác giả của một trang. Vui lòng chỉ thêm thông tin bạn cảm thấy tốt khi chia sẻ công khai."
+
+#: src/integrations/admin/user-profile-integration.php:145
+msgid "Yoast SEO Schema enhancements"
+msgstr "Các cải tiến của Yoast SEO Schema"
+
+#. translators: %1$s is replaced by `<code>`, %2$s by `</code>`.
+#: src/integrations/admin/user-profile-integration.php:129
+msgid "E.g. %1$sAcme inc%2$s"
+msgstr "Ví dụ. %1$sAcme bao gồm%2$s"
+
+#: src/integrations/admin/user-profile-integration.php:127
+msgid "Employer name"
+msgstr "Tên nhà tuyển dụng"
+
+#. translators: %1$s is replaced by `<code>`, %2$s by `</code>`.
+#: src/integrations/admin/user-profile-integration.php:123
+msgid "E.g. %1$ssoftware engineer%2$s"
+msgstr "Ví dụ. %1$skỹ sư phần mềm%2$s"
+
+#: src/integrations/admin/user-profile-integration.php:117
+msgid "Employer information"
+msgstr "Thông tin nhân viên"
+
+#. translators: %1$s is replaced by `<code>`, %2$s by `</code>`.
+#: src/integrations/admin/user-profile-integration.php:113
+msgid "Comma separated, e.g. %1$sEnglish, French, Dutch%2$s"
+msgstr "Được phân tách bằng dấu phẩy, ví dụ: %1$s Tiếng Anh, tiếng Pháp, tiếng Hà Lan%2$s"
+
+#: src/integrations/admin/user-profile-integration.php:111
+msgid "Language(s) spoken"
+msgstr "Ngôn ngữ nói"
+
+#. translators: %1$s is replaced by `<code>`, %2$s by `</code>`.
+#: src/integrations/admin/user-profile-integration.php:107
+msgid "Comma separated, e.g. %1$sPHP, JavaScript, 90's rock music%2$s"
+msgstr "Được phân tách bằng dấu phẩy, ví dụ: %1$sPHP, JavaScript, nhạc rock của những năm 90%2$s"
+
+#: src/integrations/admin/user-profile-integration.php:105
+msgid "Expertise in"
+msgstr "Chuyên môn trong"
+
+#. translators: %1$s is replaced by `<code>`, %2$s by `</code>`.
+#: src/integrations/admin/user-profile-integration.php:101
+msgid "Comma separated, e.g. %1$sMost likely to succeed - 1991, Smartest in class - 1990%2$s"
+msgstr "Được phân tách bằng dấu phẩy, ví dụ: %1$s Có khả năng thành công cao nhất - 1991, Thông minh nhất trong lớp - 1990 %2$s"
+
+#: src/integrations/admin/user-profile-integration.php:99
+msgid "Awards"
+msgstr "Giải thưởng"
+
+#: src/integrations/admin/user-profile-integration.php:95
+msgid "Extra information"
+msgstr "Thông tin bổ sung"
+
+#. translators: %1$s is replaced by `<code>`, %2$s by `</code>`.
+#: src/integrations/admin/user-profile-integration.php:91
+msgid "E.g. %1$sfemale%2$s, %1$smale%2$s, %1$snon-binary%2$s"
+msgstr "Ví dụ. %1$snữ%2$s, %1$snam%2$s, %1$skhông-xác-định%2$s"
+
+#: src/integrations/admin/user-profile-integration.php:89
+msgid "Gender"
+msgstr "Giới tính"
+
+#. translators: %1$s is replaced by `<code>`, %2$s by `</code>`.
+#: src/integrations/admin/user-profile-integration.php:85
+msgid "Use format: %1$sYYYY-MM-DD%2$s"
+msgstr "Định dạng sử dụng: %1$sYYYY-MM-DD%2$s"
+
+#: src/integrations/admin/user-profile-integration.php:83
+msgid "Birth date"
+msgstr "Ngày sinh"
+
+#. translators: %1$s is replaced by `<code>`, %2$s by `</code>`.
+#: src/integrations/admin/user-profile-integration.php:79
+msgid "E.g. %1$sMD%2$s, %1$sPhD%2$s"
+msgstr "Ví dụ. %1$sMD%2$s, %1$sPhD%2$s"
+
+#: src/integrations/admin/user-profile-integration.php:77
+msgid "Honorific suffix"
+msgstr "Tiền tố danh xưng"
+
+#. translators: %1$s is replaced by `<code>`, %2$s by `</code>`.
+#: src/integrations/admin/user-profile-integration.php:73
+msgid "E.g. %1$sDr%2$s, %1$sMs%2$s, %1$sMr%2$s"
+msgstr "Ví dụ. %1$sNgài%2$s, %1$sCô%2$s, %1$sÔng%2$s"
+
+#: src/integrations/admin/user-profile-integration.php:71
+msgid "Honorific prefix"
+msgstr "Tiền tố danh xưng"
+
+#: src/integrations/admin/user-profile-integration.php:67
+msgid "Basic information"
+msgstr "Thông tin cơ bản"
+
+#: premium.php:319
+msgid "Custom fields to include in page analysis"
+msgstr "Trường tùy chỉnh bao gồm trong phân tích trang"
+
+#: premium.php:312
+msgid "Learn more about including custom fields in the page analysis"
+msgstr "Tìm hiểu thêm về các trường tùy biến trong phân tích trang"
+
+#: src/integrations/admin/user-profile-integration.php:121
+msgid "Job title"
+msgstr "Tiêu đề công việc"
+
+#. translators: %1$s: Yoast SEO, %2$s: Link start tag, %3$s: Link end tag.
+#: src/addon-installer.php:202
+msgid "%2$sActivate %1$s now%3$s"
+msgstr "%2$sKích hoạt %1$s ngay%3$s"
+
+#. translators: %1$s: Yoast SEO, %2$s: Link start tag, %3$s: Link end tag.
+#: src/addon-installer.php:209
+msgid "%2$sUpgrade %1$s now%3$s"
+msgstr "%2$sNâng cấp %1$s ngay%3$s"
+
+#. translators: %1$s: Yoast SEO, %2$s: Link start tag, %3$s: Link end tag.
+#: src/addon-installer.php:214
+msgid "%2$sInstall %1$s now%3$s"
+msgstr "%2$sCài đặt %1$s ngay%3$s"
+
+#. translators: %1$s: Yoast SEO, %2$s: The minimum Yoast SEO version required,
+#. %3$s: Yoast SEO Premium.
+#: src/addon-installer.php:152
+msgid "%1$s %2$s must be installed and activated in order to use %3$s."
+msgstr "%1$s %2$s  phải được cài đặt và kích hoạt để sử dụng  %3$s."
+
+#. translators: %1$s: Yoast SEO, %2$s: Link start tag, %3$s: Link end tag.
+#: src/addon-installer.php:197
+msgid "%2$sNetwork Activate %1$s now%3$s"
+msgstr "%2$sKích hoạt mạng lưới %1$s ngay%3$s"
+
+#. translators: %1$s: Yoast SEO, %2$s: The minimum Yoast SEO version required.
+#: src/addon-installer.php:227
+msgid "Please contact a network administrator to install %1$s %2$s."
+msgstr "Vui lòng liên hệt quản trị viên hệ thống để cài đặt  %1$s %2$s."
+
+#. translators: %1$s: Yoast SEO, %2$s: The minimum Yoast SEO version required.
+#: src/addon-installer.php:231
+msgid "Please contact an administrator to install %1$s %2$s."
+msgstr "Vui lòng liên hệ quản trị viên để cài đặt  %1$s %2$s."
+
+#: assets/js/src/blocks/estimated-reading-time/block.js:69
+#: assets/js/src/blocks/estimated-reading-time/legacy/15.6.js:58
+#: assets/js/src/blocks/estimated-reading-time/legacy/15.6.non-admin.js:28
+#: assets/js/src/blocks/estimated-reading-time/legacy/15.8.js:22
+#: assets/js/src/blocks/estimated-reading-time/legacy/22.9.js:21
+#: src/integrations/blocks/estimated-reading-time-block.php:54
+msgid "minute"
+msgid_plural "minutes"
+msgstr[0] "phút"
+
+#: classes/redirect/redirect-table.php:127
+msgid "Filter"
+msgstr "Bộ lọc"
+
+#: assets/js/src/new-redirects/components/table-rows.js:135
+#: classes/premium-javascript-strings.php:63
+#: classes/redirect/redirect-table.php:436
+msgid "Edit"
+msgstr "Sửa"
+
+#: assets/js/src/components/RedirectNotification.js:122
+#: assets/js/src/elementor/components/RedirectNotification.js:95
+#: assets/js/src/frontend-inspector/components/frontend-inspector.js:61
+#: classes/premium-javascript-strings.php:55
+msgid "OK"
+msgstr "OK"
+
+#: classes/export/export-keywords-csv.php:69
+msgid "title"
+msgstr "tiêu đề"
+
+#: classes/export/export-keywords-csv.php:75
+msgid "meta description"
+msgstr "Thẻ meta mô tả"
+
+#: premium.php:277
+msgid "Create Redirect"
+msgstr "Tạo chuyển hướng"
+
+#: assets/js/src/new-redirects/components/menu.js:52
+#: assets/js/src/new-redirects/routes/redirects.js:72
+#: classes/redirect/redirect-formats.php:23 premium.php:338
+msgid "Redirects"
+msgstr "Chuyển hướng"
+
+#: assets/js/src/new-redirects/components/form-add-redirect.js:36
+#: classes/redirect/views/redirects-form.php:59
+msgid "URL"
+msgstr "URL"
+
+#: classes/premium-import-manager.php:238
+msgid "Redirect import failed: the Redirection plugin is not installed or activated."
+msgstr "Nhập chuyển hướng thất bại: plugin chuyển hướng không được cài đặt hoặc kích hoạt."
+
+#: classes/premium-import-manager.php:314
+msgid "Redirect import failed: no redirects found."
+msgstr "Nhập chuyển hướng thất bại: không tìm thấy các chuyển hướng."
+
+#: classes/premium-javascript-strings.php:33
+msgid "You have unsaved redirects, are you sure you want to leave?"
+msgstr "Bạn đã không lưu các chuyển hướng, bạn có chắc là muốn thoát?"
+
+#: assets/js/src/new-redirects/components/form-add-redirect.js:36
+#: classes/redirect/redirect-table.php:142
+msgid "New URL"
+msgstr "Đường dẫn mới"
+
+#: assets/js/src/new-redirects/components/table-rows.js:141
+#: assets/js/src/new-redirects/constants/index.js:29
+#: classes/premium-javascript-strings.php:64
+#: classes/redirect/redirect-table.php:318
+#: classes/redirect/redirect-table.php:437
+msgid "Delete"
+msgstr "Xóa bỏ"
+
+#: classes/redirect/views/redirects-tab-plain.php:61
+#: classes/redirect/views/redirects-tab-regex.php:72
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#: classes/redirect/views/redirects-tab-settings.php:122
+msgid "Save Changes"
+msgstr "Lưu các thay đổi"
+
+#: classes/redirect/redirect-formats.php:24
+msgid "Regex Redirects"
+msgstr "Chuyển hướng Regex"
+
+#: assets/js/src/new-redirects/components/form-add-redirect.js:27
+#: classes/redirect/presenters/redirect-table-presenter.php:71
+msgid "Old URL"
+msgstr "URL cũ"
+
+#: classes/redirect/views/redirects-tab-plain.php:41
+#: classes/redirect/views/redirects-tab-regex.php:52
+msgid "Add Redirect"
+msgstr "Thêm chuyển hướng"
+
+#: classes/redirect/views/redirects-tab-settings.php:50
+msgid "As you're on Nginx, you should add the following include to the Nginx config file:"
+msgstr "Bạn đang sử dụng Nginx, bạn sẽ phải thêm đoạn mã sau vào tập tin cấu hình NGINX:"
+
+#: classes/redirect/views/redirects-tab-settings.php:24
+msgid "As you're on Apache, you should add the following include to the website httpd config file:"
+msgstr "Bạn đang sử dụng Apache, bạn sẽ phải thêm đoạn mã sau đâu vào tập tin cấu hình httpd:"
+
+#. Description of the plugin
+#: wp-seo-premium.php
+msgid "The first true all-in-one SEO solution for WordPress, including on-page content analysis, XML sitemaps and much more."
+msgstr "Giải pháp SEO tất cả trong một chính xác đầu tiên cho Wordpress, bao gồm phân tích nội dung trên trang, bản đồ site XML và nhiều hơn nữa."
+
+#: assets/js/src/new-redirects/components/form-add-redirect.js:18
+#: assets/js/src/new-redirects/components/table-header.js:42
+#: assets/js/src/workouts/components/CornerstoneWorkout/MostLinked.js:98
+#: classes/redirect/exporters/redirect-csv-exporter.php:76
+msgid "Type"
+msgstr "Loại"
+
+#. translators: %s: '.htaccess' file name.
+#: classes/redirect/views/redirects-tab-settings.php:37
+msgid "We're unable to save the redirects to your %s file. Please make the file writable."
+msgstr "Chúng tôi không thể lưu các chuyển hướng vào tập tin %s của bạn. Hãy làm cho tập tin có thể ghi vào được."
+
+#: assets/js/src/new-redirects/components/apache-settings.js:24
+#: classes/redirect/views/redirects-tab-settings.php:111
+msgid "Generate a separate redirect file"
+msgstr "Khởi tạo một tập tin chuyển hướng riêng biệt"
+
+#: classes/views/import-redirects.php:79
+msgid "Import .htaccess"
+msgstr "Nhập .htaccess"
+
+#: classes/premium-javascript-strings.php:28
+msgid "The old URL field can't be empty."
+msgstr "Trường URL cũ không thể trống."
+
+#: classes/premium-javascript-strings.php:30
+msgid "The new URL field can't be empty."
+msgstr "Trường URL mới không thể trống."
+
+#: assets/js/src/new-redirects/components/redirect-warning-modal.js:33
+#: classes/premium-javascript-strings.php:31
+msgid "Error while saving this redirect"
+msgstr "Lỗi trong khi lưu chuyển hướng này"
+
+#: classes/premium-javascript-strings.php:32
+msgid "New type can't be empty."
+msgstr "Loại mới không thể trống."
+
+#. Author of the plugin
+#: wp-seo-premium.php
+msgid "Team Yoast"
+msgstr "Đội ngũ Yoast"
+
+#: classes/premium-javascript-strings.php:27
+msgid "You can't redirect a URL to itself."
+msgstr "Bạn không thể chuyển hướng một đường dẫn tới chính nó."
+
+#. translators: %s: '.htaccess' file name
+#: classes/redirect/views/redirects-tab-settings.php:114
+msgid "By default we write the redirects to your %s file, check this if you want the redirects written to a separate file. Only check this option if you know what you are doing!"
+msgstr "Theo mặc định, chúng tôi ghi các chuyển hướng vào tập tin %s của bạn, chọn cái này nếu bạn muốn các chuyển hướng được ghi vào 1 tập tin riêng biệt. Chỉ chọn tùy chọn này nếu bạn biết bạn đang làm gì! "
+
+#: assets/js/src/new-redirects/components/form-add-redirect.js:27
+#: classes/redirect/presenters/redirect-table-presenter.php:68
+msgid "Regular Expression"
+msgstr "Biểu thức thông thường"
+
+#. translators: 1: '.htaccess' file name
+#: classes/redirect/views/redirects-tab-settings.php:109
+msgid "Write redirects to the %1$s file. Make sure the %1$s file is writable."
+msgstr "Ghi những chuyển hướng đến các tập tin %1$s. Đảm bảo rằng các tập tin %1$s có thể ghi vào  được."
+
+#. translators: %s: '.htaccess' file name
+#: classes/views/import-redirects.php:12
+msgid "Import redirects from %s"
+msgstr "Nhập chuyển hướng từ %s"
+
+#: classes/premium-javascript-strings.php:29
+msgid "The Regular Expression field can't be empty."
+msgstr "Trường REGEX không được để trống"
+
+#. translators: %s is replaced with the URL that will be deleted.
+#: classes/premium-javascript-strings.php:36
+msgid "Please enter the new URL for %s"
+msgstr "Vui lòng nhập đường dẫn mới cho %s"
+
+#. translators: variables will be replaced with from and to URLs.
+#: classes/premium-javascript-strings.php:38
+msgid "Redirect created from %1$s to %2$s!"
+msgstr "Chuyển hướng được tạo từ %1$s đến %2$s!"
+
+#: classes/redirect/redirect-table.php:140
+#: classes/redirect/views/redirects-form.php:22
+msgctxt "noun"
+msgid "Type"
+msgstr "Loại"
+
+#. translators: %1$s: '.htaccess' file name, %2$s: plugin name
+#: classes/views/import-redirects.php:18
+msgid "You can copy the contents of any %1$s file in here, and it will import the redirects into %2$s."
+msgstr "Bạn có thể sao chép nội dung của bất cứ %1$s tập tin nào ở đây, và nó có thể nhập trực tiếp vào %2$s."
+
+#: classes/premium-javascript-strings.php:43
+msgid "Redirect added."
+msgstr "Đã thêm chuyển hướng."
+
+#: classes/premium-javascript-strings.php:44
+msgid "The redirect was added successfully."
+msgstr "Chuyển hướng đã được thêm thành công."
+
+#: classes/premium-javascript-strings.php:47
+#: classes/premium-redirect-service.php:153
+msgid "Redirect updated."
+msgstr "Cập nhật chuyển hướng."
+
+#: classes/premium-javascript-strings.php:48
+#: classes/premium-redirect-service.php:154
+msgid "The redirect was updated successfully."
+msgstr "Chuyển hướng đã được cập nhật thành công."
+
+#: classes/premium-javascript-strings.php:51
+#: classes/premium-redirect-service.php:86
+#: classes/redirect-undo-endpoint.php:98
+msgid "Redirect deleted."
+msgstr "Chuyển hướng đã xóa."
+
+#: classes/premium-javascript-strings.php:52
+#: classes/premium-redirect-service.php:87
+#: classes/redirect-undo-endpoint.php:99
+msgid "The redirect was deleted successfully."
+msgstr "Chuyển hướng đã xóa thành công."
+
+#: assets/js/src/new-redirects/components/delete-modal.js:50
+#: assets/js/src/new-redirects/components/edit-redirect-row.js:104
+#: assets/js/src/new-redirects/components/redirect-warning-modal.js:42
+#: classes/premium-javascript-strings.php:56
+#: classes/redirect/views/redirects-quick-edit.php:43
+msgid "Cancel"
+msgstr "Bỏ qua"
+
+#: assets/js/src/new-redirects/components/edit-redirect-row.js:97
+#: classes/premium-javascript-strings.php:57
+msgid "Save"
+msgstr "Lưu"
+
+#: assets/js/src/new-redirects/components/redirect-warning-modal.js:45
+#: classes/premium-javascript-strings.php:58
+msgid "Save anyway"
+msgstr "Lưu bất kỳ giá nào"
+
+#: classes/premium-javascript-strings.php:60
+#: classes/redirect/views/redirects-quick-edit.php:22
+msgid "Edit redirect"
+msgstr "Hiệu chỉnh điều hướng"
+
+#: classes/premium-javascript-strings.php:61
+msgid "You are already editing a redirect, please finish this one first"
+msgstr "Bạn đã và đang hiệu chỉnh một điều hướng, vui lòng hoàn tất cái này trước"
+
+#: classes/redirect/validation/redirect-accessible-validation.php:29
+msgid "The URL you entered could not be resolved."
+msgstr "Đường dẫn bạn đã nhập không thể phân giải."
+
+#. translators: %1$s expands to the returned http code
+#: classes/redirect/validation/redirect-accessible-validation.php:40
+msgid "The URL you are redirecting to seems to return a %1$s status. You might want to check if the target can be reached manually before saving."
+msgstr "Đường dẫn bạn đang chuyển hướng dường như trở về một trạng thái %1$s. Bạn có thể muốn kiểm tra xem có thể đến được đường dẫn bằng tay trước khi lưu."
+
+#: classes/redirect/validation/redirect-accessible-validation.php:49
+msgid "You're redirecting to a target that returns a 301 HTTP code (permanently moved). Make sure the target you specify is directly reachable."
+msgstr "Bạn đang chuyển hướng đến một trang mà trả về một mã số 301 HTTP (vĩnh viễn chuyển). Hãy chắc chắn rằng trang mà bạn chỉ định là có thể trực tiếp truy cập."
+
+#. translators: %1$s expands to the returned http code
+#: classes/redirect/validation/redirect-accessible-validation.php:57
+msgid "The URL you entered returned a HTTP code different than 200(OK). The received HTTP code is %1$s."
+msgstr "Đường dẫn bạn nhập trả lại mã HTTP khác 200 (OK). Mã HTTP nhận là %1$s."
+
+#: classes/redirect/redirect-ajax.php:67
+msgid "Unknown error. Failed to create redirect."
+msgstr "Không rõ lỗi. Không tạo được chuyển hướng."
+
+#: classes/redirect/redirect-ajax.php:103
+msgid "Unknown error. Failed to update redirect."
+msgstr "Không rõ lỗi. Không tạo được chuyển hướng. "
+
+#: classes/redirect/validation/redirect-endpoint-validation.php:40
+msgid "The redirect you are trying to save will create a redirect loop. This means there probably already exists a redirect that points to the origin of the redirect you are trying to save"
+msgstr "Việc chuyển hướng bạn đang cố gắng lưu sẽ tạo ra một vòng lặp chuyển hướng. Điều này có nghĩa là có thể đã tồn tại một chuyển hướng trỏ đến trang gốc chuyển hướng bạn đang cố gắng để lưu."
+
+#. translators: %1$s: will be the target, %2$s: will be the found endpoint.
+#: classes/redirect/validation/redirect-endpoint-validation.php:48
+msgid "%1$s will be redirected to %2$s. Maybe it's worth considering to create a direct redirect to %2$s."
+msgstr "%1$s sẽ được chuyển hướng đến %2$s. Có thể nó đáng để xem xét để tạo ra một chuyển hướng trực tiếp đến %2$s."
+
+#. translators: %s expands to the file path that we tried to write to
+#: classes/redirect/redirect-file-util.php:88
+msgid "We're unable to write data to the file %s"
+msgstr "Chúng tôi không thể ghi dữ liệu vào tập tin %s"
+
+#: assets/js/src/new-redirects/constants/index.js:12
+#: classes/redirect/redirect-types.php:26
+msgid "301 Moved Permanently"
+msgstr "Xóa vĩnh viễn 301"
+
+#: assets/js/src/new-redirects/constants/index.js:13
+#: classes/redirect/redirect-types.php:27
+msgid "302 Found"
+msgstr "Tìm thấy 302"
+
+#: assets/js/src/new-redirects/constants/index.js:14
+#: classes/redirect/redirect-types.php:28
+msgid "307 Temporary Redirect"
+msgstr "Tạm thời chuyển hướng 301"
+
+#: assets/js/src/new-redirects/constants/index.js:15
+#: classes/redirect/redirect-types.php:29
+msgid "410 Content Deleted"
+msgstr "Nội dung đã xóa 410"
+
+#: assets/js/src/new-redirects/constants/index.js:16
+#: classes/redirect/redirect-types.php:30
+msgid "451 Unavailable For Legal Reasons"
+msgstr "Không tồn tại vì lý do pháp lý 451"
+
+#: classes/redirect/validation/redirect-presence-validation.php:34
+msgid "Not all the required fields are filled."
+msgstr "Tất cả các trường yêu cầu phải được nhập."
+
+#: classes/redirect/validation/redirect-uniqueness-validation.php:32
+msgid "The old URL already exists as a redirect."
+msgstr "Đường dẫn cũ đã tồn tại như một điều hướng."
+
+#: classes/redirect/views/redirects-quick-edit.php:42
+msgid "Update Redirect"
+msgstr "Cập nhật điều hướng"
+
+#. translators: %s expands to the folder location where the redirects fill will
+#. be saved.
+#: classes/redirect/views/redirects-tab-settings.php:63
+msgid "We're unable to save the redirect file to %s"
+msgstr "Chúng tôi không thể lưu tập tin chuyển hướng đến %s"
+
+#. translators: %1$s: Yoast SEO Premium, %2$s: List with actions, %3$s: <a
+#. href=''>, %4$s: </a>, %5$s: Slug to post
+#: classes/post-watcher.php:286
+msgid "%1$s detected that you moved a post (%5$s) to the trash. You can either: %2$s Don't know what to do? %3$sRead this post%4$s."
+msgstr "%1$s tra thấy bạn đã xóa một bài viết  (%5$s) . Bạn có thể chọn: %2$s Không biết làm gì? %3$s Đọc bài viết này %4$s. "
+
+#. translators: %1$s: Yoast SEO Premium, %2$s: List with actions, %3$s: <a
+#. href='{post_with_explaination.}'>, %4$s: </a>, %5%s: The removed url.
+#: classes/post-watcher.php:493
+msgid "%1$s detected that you deleted a post (%5$s). You can either: %2$s Don't know what to do? %3$sRead this post %4$s."
+msgstr "%1$s phát hiện rằng bạn đã xóa một bài viết (%5$s). Bạn cũng có thể: %2$s Bạn có muốn làm điều đó không? %3$sĐọc bài viết này %4$s."
+
+#. translators: %1$s will be replaced with the from URL.
+#: classes/premium-javascript-strings.php:40
+msgid "410 Redirect created from %1$s!"
+msgstr "Điều hướng 410 được tạo từ %1$s!"
+
+#. translators: %1$s: Yoast SEO Premium, %2$s: List with actions, %3$s: <a
+#. href='{post_with_explaination.}'>, %4$s: </a>, %5%s: The removed url.
+#: classes/term-watcher.php:309
+msgid "%1$s detected that you deleted a term (%5$s). You can either: %2$s Don't know what to do? %3$sRead this post %4$s."
+msgstr "%1$s phát hiện bạn đã xóa một mô tả (%5$s). Bạn có thể: %2$s Bạn có muốn làm điều đó không? %3$sĐọc bài viết này %4$s."
+
+#: classes/watcher.php:271
+msgid "Redirect it to another URL"
+msgstr "Điều hướng đến một đường dẫn khác."
+
+#: classes/watcher.php:272
+msgid "Make it serve a 410 Content Deleted header"
+msgstr "Tạo nó phục vụ một đầu trang nội dung đã xóa 410."
+
+#: classes/redirect/views/redirects-tab-settings.php:101
+msgid "Web server"
+msgstr "Máy web chủ"
+
+#: assets/js/src/new-redirects/components/menu.js:68
+#: classes/redirect/views/redirects-tab-settings.php:103
+msgid "Redirect method"
+msgstr "Phương thức điều hướng"
+
+#. translators: %s: 'Yoast SEO Premium'
+#: classes/redirect/views/redirects-tab-settings.php:118
+msgid "%s can generate redirect files that can be included in your website web server configuration. If you choose this option the PHP redirects will be disabled. Only check this option if you know what you are doing!"
+msgstr "%s có thể phát sinh một tệp tin điều hướng có thể được bao gồm trong cấu hình máy chủ trang web của bạn. Nếu bạn chọn lựa chọn này, điều hướng PHP sẽ bị vô hiệu. Chỉ chọn lựa chọn này, nếu bạn biết bạn đang làm gì !"
+
+#. translators: %s expands to the file path that we tried to write to
+#: classes/redirect/redirect-file-util.php:46
+msgid "We're unable to create the directory %s"
+msgstr "Chúng tôi không thể tạo thư mục %s"
+
+#: classes/redirect/validation/redirect-self-redirect-validation.php:25
+msgid "You are attempting to redirect to the same URL as the origin. Please choose a different URL to redirect to."
+msgstr "Bạn đang cố gắng chuyển hướng tới cùng URL như nguyên gốc. Vui lòng chọn 1 URL khác để chuyển hướng sang."
+
+#. translators: 1: opens a link to a related help center article. 2: closes the
+#. link.
+#: classes/redirect/views/redirects-form.php:42
+msgid "The redirect type is the HTTP response code sent to the browser telling the browser what type of redirect is served. %1$sLearn more about redirect types%2$s."
+msgstr "Loại chuyển hướng là mã phản hồi HTTP gửi đến trình duyệt cho trình duyệt, những  loại mà  chuyển hướng được phục vụ. %1$s Tìm hiểu thêm về các loại chuyển hướng %2$s."
+
+#. translators: 1: opens a link to a related help center article. 2: closes the
+#. link.
+#: classes/redirect/views/redirects-tab-regex.php:30
+msgid "Regular Expression (regex) Redirects are extremely powerful redirects. You should only use them if you know what you are doing. %1$sRead more about regex redirects on our help center%2$s."
+msgstr "Chuyển hướng Biểu thức chính quy (regex) là chuyển hướng cực kỳ mạnh mẽ. Bạn chỉ nên sử dụng chúng nếu bạn biết mình đang làm gì. %1$s Đọc thêm về chuyển hướng regex trên trung tâm trợ giúp %2$s của chúng tôi."
+
+#: assets/js/src/new-redirects/components/apache-settings.js:48 premium.php:374
+msgid "Enabled"
+msgstr "Kích hoạt "
+
+#. translators: Hidden accessibility text.
+#: classes/views/import-redirects.php:75
+msgid "Enter redirects to import"
+msgstr "Điền các chuyển hướng để nhập vào"
+
+#. translators: %1$s expands to the subdirectory WordPress is installed.
+#: classes/redirect/validation/redirect-subdirectory-validation.php:37
+msgid "Your redirect is missing the subdirectory where WordPress is installed in. This will result in a redirect that won't work. Make sure the redirect starts with %1$s"
+msgstr "Chuyển hướng của bạn thiếu các thư mục phụ mà WordPress được cài đặt . Điều này sẽ dẫn đến một chuyển hướng đó sẽ không làm việc. Hãy chắc chắn rằng chuyển hướng bắt đầu với %1$s"
+
+#. translators: Hidden accessibility text.
+#: classes/redirect/redirect-table.php:250
+msgid "Select this redirect"
+msgstr "Chọn chuyển hướng này"
+
+#. translators: %s expands to Yoast
+#: classes/metabox-link-suggestions.php:103
+msgid "%s internal linking"
+msgstr "%s liên kết nội bộ"
+
+#. translators: %s: '.htaccess' file name
+#: classes/premium-import-manager.php:67 classes/views/import-redirects.php:45
+msgid "Import redirects"
+msgstr "Nhập vào các chuyển hướng"
+
+#: classes/views/import-redirects.php:25
+msgid "Redirection"
+msgstr "Chuyển hướng"
+
+#: classes/views/import-redirects.php:26
+msgid "Safe Redirect Manager"
+msgstr "Quản lý Chuyển hướng An toàn"
+
+#: classes/views/import-redirects.php:27
+msgid "Simple 301 Redirects"
+msgstr "Chuyển hướng đơn giản 301"
+
+#: classes/views/import-redirects.php:38
+msgid "Import from other redirect plugins"
+msgstr "Nhập từ các plugin chuyển hướng khác"
+
+#: classes/views/import-redirects.php:42
+msgid "Import from:"
+msgstr "Nhập từ:"
+
+#: classes/watcher.php:242
+msgid "New URL:"
+msgstr "URL mới:"
+
+#: classes/watcher.php:240
+msgid "Old URL:"
+msgstr "URL cũ:"
+
+#: classes/premium-redirect-export-manager.php:35
+#: classes/views/export-redirects.php:15
+msgid "Export redirects"
+msgstr "Xuất ra các chuyển hướng"
+
+#: classes/redirect/exporters/redirect-csv-exporter.php:74
+msgid "Origin"
+msgstr "Gốc"
+
+#: classes/redirect/exporters/redirect-csv-exporter.php:75
+msgid "Target"
+msgstr "Đích"
+
+#: classes/redirect/exporters/redirect-csv-exporter.php:77
+msgid "Format"
+msgstr "Định dạng"
+
+#: classes/views/export-redirects.php:10
+msgid "Export redirects to a CSV file"
+msgstr "Xuất ra các chuyển hướng vào một tập tin CSV"
+
+#: classes/views/export-redirects.php:11
+msgid "If you need to have a list of all redirects, you can generate a CSV file using the button below."
+msgstr "Nếu bạn cần một danh sách các chuyển hướng, bạn có thể tạo một tập tin CSV sử dụng nút dưới đây."
+
+#: classes/views/export-redirects.php:12
+msgid "Please note that the first row in this file is a header. This row should be ignored when parsing or importing the data from the export."
+msgstr "Vui lòng lưu ý rằng dòng đầu tiên trong tập tin là một header. Hàng đầu không nên bị bỏ qua khi phân tích cú pháp hay nhập vào dữ liệu của dữ liệu được xuất."
+
+#: classes/premium-import-manager.php:272
+msgid "CSV import failed: the provided file could not be parsed using a CSV parser."
+msgstr "Nhập CSV không thành công: không thể phân tích cú pháp tệp đã cung cấp bằng trình phân tích cú pháp CSV."
+
+#: classes/views/import-redirects.php:52
+msgid "Import from a CSV file"
+msgstr "Nhập vào từ một tập tin CSV"
+
+#: classes/views/import-redirects.php:59
+msgid "Import CSV file"
+msgstr "Nhập vào tập tin CSV"
+
+#. translators: %1$s: Yoast SEO Premium, %2$s: <a href='{undo_redirect_url}'>,
+#. %3$s: </a>, %4$s: Slug to post
+#: classes/post-watcher.php:312
+msgid "%1$s detected that you restored a post (%4$s) from the trash, for which a redirect was created. %2$sClick here to remove the redirect%3$s"
+msgstr "%1$s phát hiện bạn đã khôi phục một bài viết (%4$s) từ thùng rác, một chuyển hướng đã được tạo cho nó. %2$sBấm vào đây để xóa chuyển hướng%3$s"
+
+#. translators: %1$s expands to the link to an article to read more about
+#. orphaned content, %2$s expands to </a>
+#: classes/premium-orphaned-post-filter.php:58
+msgid "%1$sLearn more about orphaned content%2$s."
+msgstr "%1$stìm hiểu thêm về loại nội dung mồ côi%2$s."
+
+#. translators: %1$s: plural form of the current post type, %2$s: a Learn more
+#. about link
+#: classes/premium-orphaned-post-filter.php:66
+msgid "Ask your SEO Manager or Site Administrator to count links in all texts, so we can identify orphaned %1$s. %2$s"
+msgstr "Yêu cầu người quản lý SEO hoặc người quản trị trang của bạn đếm số đường dẫn trong tất cả các văn bản, như vậy chúng tôi có thể xác định %1$s mồ côi. %2$s"
+
+#. translators: %1$s expands to link to the recalculation option, %2$s: anchor
+#. closing, %3$s: plural form of the current post type, %4$s: a Learn more
+#. about link
+#: classes/premium-orphaned-post-filter.php:75
+msgid "%1$sClick here%2$s to index your links, so we can identify orphaned %3$s. %4$s"
+msgstr "%1$sBấm vào đây%2$s để đánh chỉ mục cho các đường dẫn của bạn, như vậy chúng tôi có thể xác định %3$s mồ côi. %4$s"
+
+#. translators: %1$s: plural form of the current post type, %2$s: a Learn more
+#. about link
+#: classes/premium-orphaned-post-filter.php:85
+msgid "'Orphaned content' refers to %1$s that have no inbound links, consider adding links towards these %1$s. %2$s"
+msgstr "'Nội dung đơn lẻ' liên quan đến %1$s không có đường dẫn từ ngoài vào, xem xét thêm các đường dẫn tới %1$s. %2$s"
+
+#: assets/js/src/workouts/components/OrphanedWorkout.js:89
+#: classes/premium-orphaned-post-filter.php:145
+msgid "Orphaned content"
+msgstr "Nội dung đơn lẻ"
+
+#: classes/export/export-keywords-csv.php:70
+msgid "url"
+msgstr "url"
+
+#: classes/export/export-keywords-csv.php:71
+msgid "readability score"
+msgstr "điểm dễ đọc"
+
+#: classes/export/export-keywords-csv.php:78
+msgid "ID"
+msgstr "ID"
+
+#. translators: Hidden accessibility text.
+#: classes/redirect/redirect-table.php:111
+msgid "Filter by redirect type"
+msgstr "Bộ lọc theo loại chuyển hướng"
+
+#: classes/redirect/redirect-table.php:115
+msgid "All redirect types"
+msgstr "Tất cả các kiểu chuyển hướng"
+
+#. translators: %s resolves to the button label translation.
+#: classes/views/export-keywords.php:12
+msgid "If you need a list of all public posts, terms and related keyphrases, you can generate a CSV file using the %s button below."
+msgstr "Nếu bạn cần một danh sách tất cả các bài đăng công khai, thuật ngữ và cụm từ khoá liên quan, bạn có thể khởi tạo tập tin CSV bằng nút %s bên dưới."
+
+#: classes/views/export-keywords.php:21
+msgid "Export keyphrases to a CSV file"
+msgstr "Xuất cụm từ khóa thành tập tin CSV"
+
+#: classes/views/export-keywords.php:23
+msgid "You can add or remove columns to be included in the export using the checkboxes below."
+msgstr "Bạn có thể thêm hoặc xóa cột khi xuất dữ liệu bằng cách chọn vào ô bên dưới"
+
+#: classes/views/export-keywords.php:31
+msgid "Export URL"
+msgstr "Xuất URL"
+
+#: classes/views/export-keywords.php:32
+msgid "Export title"
+msgstr "Trích xuất tiêu đề"
+
+#: classes/views/export-keywords.php:35
+msgid "Export readability score"
+msgstr "Xuất số điểm dễ đọc"
+
+#: classes/views/export-keywords.php:49
+msgid "Please note:"
+msgstr "Xin chú ý"
+
+#: classes/views/export-keywords.php:51
+msgid "The first row in this file is the header row. This row should be ignored when parsing or importing the data from the export."
+msgstr "Hàng đầu tiên trong tệp này là hàng tiêu đề. Hàng này nên được bỏ qua khi phân tích cú pháp hoặc nhập dữ liệu từ việc xuất khẩu."
+
+#: classes/views/export-keywords.php:52
+msgid "Exporting data can take a long time when there are many posts, pages, public custom post types or terms."
+msgstr "Xuất dữ liệu có thể mất nhiều thời gian khi có nhiều bài đăng, trang, loại bài đăng tùy chỉnh công cộng hoặc các điều khoản."
+
+#: assets/js/src/new-redirects/routes/redirects.js:83
+#: classes/redirect/views/redirects-tab-plain.php:25
+msgid "Plain redirects"
+msgstr "Chuyển hướng đơn giản"
+
+#: classes/redirect/views/redirects-tab-regex.php:25
+msgid "Regular Expression redirects"
+msgstr "Các chuyển hướng Regular Expression"
+
+#: classes/redirect/views/redirects-tab-settings.php:76
+msgid "Redirects settings"
+msgstr "Thiết đặt chuyển hướng"
+
+#: classes/export/export-keywords-csv.php:79
+msgctxt "post_type of a post or the taxonomy of a term"
+msgid "type"
+msgstr "loại"
+
+#: classes/export/export-keywords-csv.php:74
+msgid "seo title"
+msgstr "Tiêu đề seo"
+
+#: classes/views/export-keywords.php:33
+msgid "Export SEO title"
+msgstr "Xuất ra tiêu đề SEO"
+
+#: classes/views/export-keywords.php:34
+msgid "Export meta description"
+msgstr "Xuất ra thẻ meta mô tả"
+
+#: classes/export/export-keywords-csv.php:72
+msgid "keyphrase"
+msgstr "cụm từ khóa"
+
+#: classes/export/export-keywords-csv.php:73
+msgid "keyphrase score"
+msgstr "điểm cụm từ khóa"
+
+#: classes/premium-keyword-export-manager.php:37
+#: classes/views/export-keywords.php:8
+msgid "Export keyphrases"
+msgstr "Xuất cụm từ khóa"
+
+#: classes/views/export-keywords.php:30
+msgid "Export keyphrase scores"
+msgstr "Xuất điểm cụm từ khóa"
+
+#. Plugin URI of the plugin
+#: wp-seo-premium.php
+msgid "https://yoa.st/2jc"
+msgstr "https://yoa.st/2jc"
+
+#. Plugin Name of the plugin
+#: wp-seo-premium.php
+msgid "Yoast SEO Premium"
+msgstr "Yoast SEO Premium"
+
+#. translators: 1: link to redirects overview, 2: closing link tag
+#: classes/premium-import-manager.php:189
+msgid "All redirects have been imported successfully. Go to the %1$sredirects overview%2$s to see the imported redirects."
+msgstr "Tất cả các chuyển hướng đã được nhập thành công. Chuyển đến %1$s xem lại chuyển hướng %2$s để xem các chuyển hướng đã nhập. "
+
+#. translators: 1: link to redirects overview, 2: closing link tag
+#: classes/premium-import-manager.php:198
+msgid "No redirects have been imported. Probably they already exist as a redirect. Go to the %1$sredirects overview%2$s to see the existing redirects."
+msgstr "Không có chuyển hướng được thêm vào. Có lẽ đã tồn tại một chuyển hướng. Bấm vào %1$sxem lại chuyển hướng%2$s để xem các chuyển hướng đã tồn tại."
+
+#. translators: 1: amount of imported redirects, 2: total amount of redirects,
+#. 3: link to redirects overview, 4: closing link tag
+#: classes/premium-import-manager.php:206
+msgid "Imported %1$s/%2$s redirects successfully. Go to the %3$sredirects overview%4$s to see the imported redirect."
+msgid_plural "Imported %1$s/%2$s redirects successfully. Go to the %3$sredirects overview%4$s to see the imported redirects."
+msgstr[0] "Đã nhập huyển hướng đến  %1$s/%2$s thành công. Bấm vào  %3$sxem lại chuyển hướng%4$s để xem các chuyển hướng đã nhập."
+
+#: classes/premium-import-manager.php:248
+msgid "Redirect import failed: the selected redirect plugin is not installed or activated."
+msgstr "Nhập chuyển hướng thất bại: plugin chuyển hướng đã chọn không được cài đặt hoặc kích hoạt."
+
+#: classes/premium-import-manager.php:266
+msgid "CSV import failed: No file selected."
+msgstr "Nhập CSV thất bại: không có file được chọn."
+
+#. translators: 1: The maximum file size
+#: classes/premium-import-manager.php:280
+msgid "CSV import failed: the provided file is larger than %1$s."
+msgstr "Nhập CSV thất bại: file nhập vào lớn hơn  %1$s."
+
+#: classes/premium-import-manager.php:287
+msgid "CSV import failed: the provided file is not a CSV file."
+msgstr "Nhập CSV thất bại: file nhập vào không phải file CSV."
+
+#: classes/premium-import-manager.php:306
+msgid "Redirect import failed: we can't recognize this type of import."
+msgstr "Chuyển hướng nhập vào thất bại: không xác định được định dạng file nhập vào."
+
+#: classes/premium-stale-cornerstone-content-filter.php:51
+msgid "Stale cornerstone content"
+msgstr "Nội dung nền tảng cũ"
+
+#. translators: %1$s expands to dynamic post type label, %2$s expands anchor to
+#. blog post about cornerstone content, %3$s expands to </a>
+#: classes/premium-stale-cornerstone-content-filter.php:68
+msgid "Stale cornerstone content refers to cornerstone content that hasn’t been updated in the last 6 months. Make sure to keep these %1$s up-to-date. %2$sLearn more about cornerstone content%3$s."
+msgstr "Nội dung nền tảng cũ cung cấp nội dung không được cập nhật trong 6 tháng gần nhất. Hãy bảo đảm %1$s cập nhật kịp thời. %2$s Tìm hiểu thêm về nội dung nền tảng %3$s."
+
+#: classes/views/import-redirects.php:56
+msgid "Choose a CSV file from your computer:"
+msgstr "Chọn file CSV từ máy tính của bạn"
+
+#: assets/js/src/ai/ai-fix-assessments/components/fix-assessments-notification.js:268
+#: assets/js/src/components/RedirectNotification.js:132
+#: assets/js/src/elementor/components/RedirectNotification.js:101
+#: classes/watcher.php:253
+msgid "Undo"
+msgstr "khôi phục"
+
+#: classes/premium-redirect-service.php:95
+#: classes/premium-redirect-service.php:140
+#: classes/redirect-undo-endpoint.php:87 classes/redirect-undo-endpoint.php:107
+msgid "Redirect not deleted."
+msgstr "Đường dẫn không bị xóa"
+
+#: classes/premium-redirect-service.php:96
+#: classes/redirect-undo-endpoint.php:88 classes/redirect-undo-endpoint.php:108
+msgid "Something went wrong when deleting this redirect."
+msgstr "Một vài thứ bị sai khi xóa chuyển hướng này"
+
+#: classes/redirect/validation/redirect-relative-origin-validation.php:27
+msgid "The old URL for your redirect is not relative. Only the new URL is allowed to be absolute. Make sure to provide a relative old URL."
+msgstr "Đường dẫn URL cũ thì không liên quan và không hiển thị. Sẽ chỉ có đường dẫn URL mới sẽ được phép. Do đó hãy đảm bảo chắc chắn nó có liên quan tới đường dẫn cũ."
+
+#. translators: %1$s: Yoast SEO Premium, %2$s and %3$s expand to a link to the
+#. admin page.
+#: classes/post-watcher.php:480
+msgid "%1$s created a %2$sredirect%3$s from the old post URL to the new post URL."
+msgstr "%1$s tạo ra một %2$s chuyển hướng %3$s từ đường dẫn cũ tới đường dẫn mới."
+
+#. translators: %1$s: Yoast SEO Premium, %2$s and %3$s expand to a link to the
+#. admin page.
+#: classes/term-watcher.php:296
+msgid "%1$s created a %2$sredirect%3$s from the old term URL to the new term URL."
+msgstr "%1$s tạo ra một %2$s chuyển hướng %3$s từ đường dẫn URL cũ tới đường dẫn URL mới."
+
+#: classes/watcher.php:247
+msgid "Ok"
+msgstr "Rất tốt"
+
+#: assets/js/src/blocks/table-of-contents-block.js:310
+#: assets/js/src/blocks/table-of-contents-block.js:394
+#: src/integrations/admin/extension-importer/content-processor.php:336
+msgid "Table of contents"
+msgstr "Bảng nội dung"

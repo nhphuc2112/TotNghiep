@@ -1,0 +1,512 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPForms Coupons 1.6.0\n"
+"Report-Msgid-Bugs-To: https://wpforms.com/support/\n"
+"Last-Translator: WPForms <support@wpforms.com>\n"
+"Language-Team: WPForms <support@wpforms.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-02-25T12:38:47+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: wpforms-coupons\n"
+
+#. Plugin Name of the plugin
+msgid "WPForms Coupons"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://wpforms.com"
+msgstr ""
+
+#. Description of the plugin
+msgid "Create Coupons with WPForms."
+msgstr ""
+
+#. Author of the plugin
+msgid "WPForms"
+msgstr ""
+
+#: src/Admin/Builder.php:59
+msgid "Apply"
+msgstr ""
+
+#: src/Admin/Builder.php:60
+msgid "No Coupons Exist"
+msgstr ""
+
+#: src/Admin/Builder.php:61
+msgid "Please create a new coupon to use the Coupon field on your form."
+msgstr ""
+
+#: src/Admin/Builder.php:62
+msgid "Get Started"
+msgstr ""
+
+#: src/Admin/Coupons/Edit.php:185
+msgid "Back to All Coupons"
+msgstr ""
+
+#: src/Admin/Coupons/Edit.php:207
+msgid "Add New Coupon"
+msgstr ""
+
+#: src/Admin/Coupons/Edit.php:208
+msgid "Create a coupon code that can be used to receive a discount on your payment forms."
+msgstr ""
+
+#: src/Admin/Coupons/Edit.php:212
+msgid "Edit Coupon"
+msgstr ""
+
+#: src/Admin/Coupons/Edit.php:213
+msgid "You cannot change the coupon's code and amount once it's been created."
+msgstr ""
+
+#: src/Admin/Coupons/Edit.php:270
+msgid "Generating..."
+msgstr ""
+
+#: src/Admin/Coupons/Edit.php:272
+msgid "Leave site?"
+msgstr ""
+
+#. translators: %d deleted form id.
+#: src/Admin/Coupons/Edit.php:422
+msgid "Deleted Form #%d"
+msgstr ""
+
+#: src/Admin/Coupons/Edit.php:502
+msgid "<strong>Success!</strong> Your coupon has been created. Don’t forget to add a Coupon field to your form."
+msgstr ""
+
+#: src/Admin/Coupons/Edit.php:513
+msgid "<strong>Success!</strong> Your changes have been saved."
+msgstr ""
+
+#: src/Admin/Coupons/Edit.php:724
+msgid "Something went wrong. Please try again."
+msgstr ""
+
+#: src/Admin/Coupons/Edit.php:737
+msgid "The coupon name is a required field."
+msgstr ""
+
+#: src/Admin/Coupons/Edit.php:738
+msgid "The coupon code is a required field."
+msgstr ""
+
+#: src/Admin/Coupons/Edit.php:739
+msgid "The usage limit should be more than the usage count."
+msgstr ""
+
+#: src/Admin/Coupons/Edit.php:740
+msgid "The coupon amount is a required field."
+msgstr ""
+
+#: src/Admin/Coupons/Edit.php:741
+msgid "The coupon code you entered already exists."
+msgstr ""
+
+#: src/Admin/Coupons/Edit.php:742
+msgid "The discount amount should be more than zero."
+msgstr ""
+
+#: src/Admin/Coupons/Edit.php:743
+msgid "You can't submit discount amount greater than 100 percent."
+msgstr ""
+
+#: src/Admin/Coupons/Edit.php:744
+msgid "The coupon code must have fewer than 36 characters."
+msgstr ""
+
+#: src/Admin/Coupons/Edit.php:745
+msgid "The coupon start date should be less than the end date."
+msgstr ""
+
+#: src/Admin/Coupons/Edit.php:746
+msgid "The coupon start date should be greater than the current date."
+msgstr ""
+
+#: src/Admin/Coupons/Edit.php:747
+msgid "The coupon end date should be greater than the current date."
+msgstr ""
+
+#: src/Admin/Coupons/Overview.php:137
+msgid "Add Coupon"
+msgstr ""
+
+#. translators: %1$d - number of archived coupons.
+#: src/Admin/Coupons/Overview.php:269
+msgid "%1$d coupon was successfully moved to the Archive."
+msgid_plural "%1$d coupons were successfully moved to the Archive."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: %1$d - number of archived coupons.
+#: src/Admin/Coupons/Overview.php:300
+msgid "%1$d coupon was successfully moved to the Trash."
+msgid_plural "%1$d coupons were successfully moved to the Trash."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: %1$d - number of archived coupons.
+#: src/Admin/Coupons/Overview.php:318
+msgid "%1$d coupon could not be moved to the Trash because it has been used."
+msgid_plural "%1$d coupons could not be moved to the Trash because they have been used."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: %1$d - number of archived coupons.
+#: src/Admin/Coupons/Overview.php:347
+msgid "%1$d coupon was successfully restored."
+msgid_plural "%1$d coupons were successfully restored."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: %1$d - number of archived coupons.
+#: src/Admin/Coupons/Overview.php:375
+msgid "%1$d coupon was successfully deleted."
+msgid_plural "%1$d coupons were successfully deleted."
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/Admin/Coupons/Overview.php:403
+msgid "The coupon was successfully moved to the Archive."
+msgstr ""
+
+#: src/Admin/Coupons/Overview.php:407
+msgid "The coupon was successfully moved to the Trash."
+msgstr ""
+
+#: src/Admin/Coupons/Overview.php:411
+msgid "The coupon could not be moved to the Trash because it has been used."
+msgstr ""
+
+#: src/Admin/Coupons/Overview.php:457
+msgid "Coupons"
+msgstr ""
+
+#: src/Admin/Coupons/ScreenOptions.php:81
+msgid "Number of coupons per page:"
+msgstr ""
+
+#: src/Admin/Coupons/Table.php:188
+#: templates/admin/edit.php:61
+msgid "Name"
+msgstr ""
+
+#: src/Admin/Coupons/Table.php:189
+#: templates/admin/edit.php:78
+msgid "Code"
+msgstr ""
+
+#: src/Admin/Coupons/Table.php:190
+#: templates/admin/edit.php:105
+msgid "Amount"
+msgstr ""
+
+#: src/Admin/Coupons/Table.php:191
+msgid "Usage / Limit"
+msgstr ""
+
+#: src/Admin/Coupons/Table.php:192
+msgid "Forms"
+msgstr ""
+
+#: src/Admin/Coupons/Table.php:193
+msgid "Start Date"
+msgstr ""
+
+#: src/Admin/Coupons/Table.php:194
+msgid "End Date"
+msgstr ""
+
+#: src/Admin/Coupons/Table.php:251
+msgid "Edit This Coupon"
+msgstr ""
+
+#: src/Admin/Coupons/Table.php:298
+#: templates/admin/edit.php:341
+msgid "Unlimited"
+msgstr ""
+
+#: src/Admin/Coupons/Table.php:316
+#: src/Admin/PaymentPages.php:190
+msgid "N/A"
+msgstr ""
+
+#: src/Admin/Coupons/Table.php:349
+msgid "View All Forms"
+msgstr ""
+
+#: src/Admin/Coupons/Table.php:365
+#: src/Admin/Coupons/Table.php:399
+msgid "Edit this form"
+msgstr ""
+
+#. translators: %d - number of the coupon forms.
+#: src/Admin/Coupons/Table.php:369
+msgid "+%d more"
+msgstr ""
+
+#: src/Admin/Coupons/Table.php:420
+msgid "No start date set"
+msgstr ""
+
+#: src/Admin/Coupons/Table.php:443
+msgid "No end date set"
+msgstr ""
+
+#: src/Admin/Coupons/Table.php:461
+msgid "Published"
+msgstr ""
+
+#: src/Admin/Coupons/Table.php:465
+msgid "Archived"
+msgstr ""
+
+#: src/Admin/Coupons/Table.php:469
+msgid "Trash"
+msgstr ""
+
+#: src/Admin/Coupons/Table.php:498
+msgid "Move to Archive"
+msgstr ""
+
+#: src/Admin/Coupons/Table.php:499
+msgid "Move to Trash"
+msgstr ""
+
+#: src/Admin/Coupons/Table.php:504
+msgid "Restore"
+msgstr ""
+
+#: src/Admin/Coupons/Table.php:511
+msgid "Delete Permanently"
+msgstr ""
+
+#: src/Admin/Coupons/Table.php:531
+msgid "Search Coupons"
+msgstr ""
+
+#: src/Admin/Coupons/Table.php:574
+msgid "No coupons found."
+msgstr ""
+
+#. translators: %d - number of payments found.
+#: src/Admin/Coupons/Table.php:593
+msgid "Found <strong>%d coupon</strong> containing"
+msgid_plural "Found <strong>%d coupons</strong> containing"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/Admin/Coupons/Table.php:610
+msgid "Reset search"
+msgstr ""
+
+#: src/Admin/PaymentPages.php:164
+msgid "Coupon"
+msgstr ""
+
+#: src/Admin/Settings.php:35
+msgid "Coupon Error"
+msgstr ""
+
+#: src/Admin/Settings.php:37
+#: src/Field.php:173
+#: src/Field.php:212
+#: src/Frontend.php:104
+msgid "This is not a valid coupon."
+msgstr ""
+
+#. translators: %s - applied coupon code.
+#: src/Field.php:480
+msgid "The %s coupon was applied"
+msgstr ""
+
+#: src/Field.php:842
+#: src/Field.php:873
+msgid "Subtotal"
+msgstr ""
+
+#: src/Field.php:880
+msgid "Coupon (EXAMPLE50)"
+msgstr ""
+
+#: src/Frontend.php:105
+msgid "Remove Coupon Icon"
+msgstr ""
+
+#: src/Frontend.php:106
+msgid "Heads up! We have successfully applied your coupon. Now you can proceed with your payment."
+msgstr ""
+
+#: src/Frontend.php:107
+msgid "Coupon (%name%)"
+msgstr ""
+
+#: templates/admin/edit.php:72
+msgid "Give your coupon a name so you can easily identify it. This is not displayed to customers."
+msgstr ""
+
+#: templates/admin/edit.php:96
+msgid "Generate Code"
+msgstr ""
+
+#: templates/admin/edit.php:99
+msgid "The code customers will enter to receive a discount."
+msgstr ""
+
+#: templates/admin/edit.php:121
+msgid "The coupon amount type: flat or percentage"
+msgstr ""
+
+#. translators: %s - currency symbol.
+#: templates/admin/edit.php:133
+msgid "The amount of the discount as a percentage (%%) or fixed amount (%s). Cannot be left blank."
+msgstr ""
+
+#: templates/admin/edit.php:145
+msgid "Start Date / Time"
+msgstr ""
+
+#: templates/admin/edit.php:158
+msgid "Clear Start Date"
+msgstr ""
+
+#: templates/admin/edit.php:164
+msgid "Start Coupon Time"
+msgstr ""
+
+#: templates/admin/edit.php:169
+msgid "Clear Start Time"
+msgstr ""
+
+#: templates/admin/edit.php:174
+msgid "Set the date and time this discount will start on. Leave blank for no start date."
+msgstr ""
+
+#: templates/admin/edit.php:180
+msgid "End Date / Time"
+msgstr ""
+
+#: templates/admin/edit.php:193
+msgid "Clear End Date"
+msgstr ""
+
+#: templates/admin/edit.php:199
+msgid "End Coupon Time"
+msgstr ""
+
+#: templates/admin/edit.php:204
+msgid "Clear End Time"
+msgstr ""
+
+#: templates/admin/edit.php:209
+msgid "Set the date and time this discount will end on. Leave blank for no end date."
+msgstr ""
+
+#: templates/admin/edit.php:216
+msgid "Max Uses"
+msgstr ""
+
+#: templates/admin/edit.php:229
+msgid "The total number of times this coupon can be used."
+msgstr ""
+
+#: templates/admin/edit.php:236
+msgid "Allowed Forms"
+msgstr ""
+
+#: templates/admin/edit.php:237
+msgid "Specify which forms your coupon can be used on and view valuable statistics."
+msgstr ""
+
+#: templates/admin/edit.php:240
+msgid "Make sure you enable your coupon for at least one form."
+msgstr ""
+
+#: templates/admin/edit.php:246
+msgid "Your coupon is not enabled for any forms. Your customers will not be able to use it."
+msgstr ""
+
+#: templates/admin/edit.php:258
+msgid "Allow All Forms"
+msgstr ""
+
+#: templates/admin/edit.php:268
+msgid "Form"
+msgstr ""
+
+#: templates/admin/edit.php:269
+msgid "Payments"
+msgstr ""
+
+#: templates/admin/edit.php:270
+msgid "Coupon Uses"
+msgstr ""
+
+#: templates/admin/edit.php:282
+msgid "This form is in Trash"
+msgstr ""
+
+#: templates/admin/edit.php:284
+msgid "This form was deleted"
+msgstr ""
+
+#: templates/admin/edit.php:310
+msgid "Template"
+msgstr ""
+
+#: templates/admin/edit.php:326
+msgid "Allow using the coupon in the form"
+msgstr ""
+
+#. translators: %d all forms in table count.
+#: templates/admin/edit.php:351
+msgid "Show all %d forms"
+msgstr ""
+
+#: templates/admin/edit.php:368
+msgid "Update Coupon"
+msgstr ""
+
+#: templates/admin/edit.php:369
+msgid "Save Coupon"
+msgstr ""
+
+#: templates/admin/edit.php:375
+msgid "Archive Coupon"
+msgstr ""
+
+#: templates/admin/edit.php:375
+msgid "Delete Coupon"
+msgstr ""
+
+#: templates/admin/no-coupons.php:16
+msgid "Hi there!"
+msgstr ""
+
+#: templates/admin/no-coupons.php:17
+msgid "It looks like you haven't created any coupons yet."
+msgstr ""
+
+#: templates/admin/no-coupons.php:18
+msgid "Allow your customers to enter a custom coupon code and receive discounts on payment forms."
+msgstr ""
+
+#: templates/admin/no-coupons.php:19
+msgid "No coupons"
+msgstr ""
+
+#: templates/admin/no-coupons.php:22
+msgid "Create a Coupon"
+msgstr ""
+
+#. translators: %s - URL to the documentation article.
+#: templates/admin/no-coupons.php:29
+msgid "Need some help? Check out our <a href=\"%s\" rel=\"noopener noreferrer\" target=\"_blank\">comprehensive guide.</a>"
+msgstr ""

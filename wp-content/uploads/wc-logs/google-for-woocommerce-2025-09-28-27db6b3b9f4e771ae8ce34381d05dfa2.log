@@ -1,0 +1,271 @@
+2025-09-28T06:25:41+00:00 ERROR Automattic\WooCommerce\GoogleListingsAndAds\API\Google\AdsCampaign::get_campaigns {
+    "message": "The caller does not have permission",
+    "code": 7,
+    "status": "PERMISSION_DENIED",
+    "details": [
+        {
+            "@type": "type.googleapis.com\/google.ads.googleads.v20.errors.GoogleAdsFailure",
+            "errors": [
+                {
+                    "errorCode": {
+                        "authorizationError": "USER_PERMISSION_DENIED"
+                    },
+                    "message": "User doesn't have permission to access customer. Note: If you're accessing a client customer, the manager's customer id must be set in the 'login-customer-id' header. See https:\/\/developers.google.com\/google-ads\/api\/docs\/concepts\/call-structure#cid"
+                }
+            ],
+            "requestId": "-BECxcF3HPVHAP3_RkjGBQ"
+        }
+    ]
+}
+2025-09-28T06:25:49+00:00 ERROR Automattic\WooCommerce\GoogleListingsAndAds\API\Google\AdsCampaign::get_campaigns {
+    "message": "The caller does not have permission",
+    "code": 7,
+    "status": "PERMISSION_DENIED",
+    "details": [
+        {
+            "@type": "type.googleapis.com\/google.ads.googleads.v20.errors.GoogleAdsFailure",
+            "errors": [
+                {
+                    "errorCode": {
+                        "authorizationError": "USER_PERMISSION_DENIED"
+                    },
+                    "message": "User doesn't have permission to access customer. Note: If you're accessing a client customer, the manager's customer id must be set in the 'login-customer-id' header. See https:\/\/developers.google.com\/google-ads\/api\/docs\/concepts\/call-structure#cid"
+                }
+            ],
+            "requestId": "j0t8buD7qseRq3bwanvBYg"
+        }
+    ]
+}
+2025-09-28T11:51:10+00:00 ERROR Automattic\WooCommerce\GoogleListingsAndAds\API\Google\AdsCampaign::get_campaigns {
+    "message": "The caller does not have permission",
+    "code": 7,
+    "status": "PERMISSION_DENIED",
+    "details": [
+        {
+            "@type": "type.googleapis.com\/google.ads.googleads.v20.errors.GoogleAdsFailure",
+            "errors": [
+                {
+                    "errorCode": {
+                        "authorizationError": "USER_PERMISSION_DENIED"
+                    },
+                    "message": "User doesn't have permission to access customer. Note: If you're accessing a client customer, the manager's customer id must be set in the 'login-customer-id' header. See https:\/\/developers.google.com\/google-ads\/api\/docs\/concepts\/call-structure#cid"
+                }
+            ],
+            "requestId": "CnEcU6BqDzo2HicYWjDlkA"
+        }
+    ]
+}
+2025-09-28T11:51:38+00:00 ERROR Automattic\WooCommerce\GoogleListingsAndAds\API\Google\AdsCampaign::get_campaigns {
+    "message": "The caller does not have permission",
+    "code": 7,
+    "status": "PERMISSION_DENIED",
+    "details": [
+        {
+            "@type": "type.googleapis.com\/google.ads.googleads.v20.errors.GoogleAdsFailure",
+            "errors": [
+                {
+                    "errorCode": {
+                        "authorizationError": "USER_PERMISSION_DENIED"
+                    },
+                    "message": "User doesn't have permission to access customer. Note: If you're accessing a client customer, the manager's customer id must be set in the 'login-customer-id' header. See https:\/\/developers.google.com\/google-ads\/api\/docs\/concepts\/call-structure#cid"
+                }
+            ],
+            "requestId": "myzeJbHOaf-KE2V7rcqhhQ"
+        }
+    ]
+}
+2025-09-28T11:51:40+00:00 ERROR Automattic\WooCommerce\GoogleListingsAndAds\API\Google\AdsCampaign::get_campaigns {
+    "message": "The caller does not have permission",
+    "code": 7,
+    "status": "PERMISSION_DENIED",
+    "details": [
+        {
+            "@type": "type.googleapis.com\/google.ads.googleads.v20.errors.GoogleAdsFailure",
+            "errors": [
+                {
+                    "errorCode": {
+                        "authorizationError": "USER_PERMISSION_DENIED"
+                    },
+                    "message": "User doesn't have permission to access customer. Note: If you're accessing a client customer, the manager's customer id must be set in the 'login-customer-id' header. See https:\/\/developers.google.com\/google-ads\/api\/docs\/concepts\/call-structure#cid"
+                }
+            ],
+            "requestId": "nuRLFLTRUhllMQDgJpXGQA"
+        }
+    ]
+}
+2025-09-28T11:54:11+00:00 ERROR Automattic\WooCommerce\GoogleListingsAndAds\API\Google\AdsCampaign::get_campaigns {
+    "message": "The caller does not have permission",
+    "code": 7,
+    "status": "PERMISSION_DENIED",
+    "details": [
+        {
+            "@type": "type.googleapis.com\/google.ads.googleads.v20.errors.GoogleAdsFailure",
+            "errors": [
+                {
+                    "errorCode": {
+                        "authorizationError": "USER_PERMISSION_DENIED"
+                    },
+                    "message": "User doesn't have permission to access customer. Note: If you're accessing a client customer, the manager's customer id must be set in the 'login-customer-id' header. See https:\/\/developers.google.com\/google-ads\/api\/docs\/concepts\/call-structure#cid"
+                }
+            ],
+            "requestId": "GCK-gjUcu5ZVi_7siiWtkg"
+        }
+    ]
+}
+2025-09-28T11:54:21+00:00 ERROR Automattic\WooCommerce\GoogleListingsAndAds\API\Google\AdsCampaign::get_campaigns {
+    "message": "The caller does not have permission",
+    "code": 7,
+    "status": "PERMISSION_DENIED",
+    "details": [
+        {
+            "@type": "type.googleapis.com\/google.ads.googleads.v20.errors.GoogleAdsFailure",
+            "errors": [
+                {
+                    "errorCode": {
+                        "authorizationError": "USER_PERMISSION_DENIED"
+                    },
+                    "message": "User doesn't have permission to access customer. Note: If you're accessing a client customer, the manager's customer id must be set in the 'login-customer-id' header. See https:\/\/developers.google.com\/google-ads\/api\/docs\/concepts\/call-structure#cid"
+                }
+            ],
+            "requestId": "SgG-2AjmMp6zNzNsWh7uOQ"
+        }
+    ]
+}
+2025-09-28T11:54:36+00:00 ERROR Automattic\WooCommerce\GoogleListingsAndAds\API\Google\Ads::has_access {
+    "message": "The caller does not have permission",
+    "code": 7,
+    "status": "PERMISSION_DENIED",
+    "details": [
+        {
+            "@type": "type.googleapis.com\/google.ads.googleads.v20.errors.GoogleAdsFailure",
+            "errors": [
+                {
+                    "errorCode": {
+                        "authorizationError": "USER_PERMISSION_DENIED"
+                    },
+                    "message": "User doesn't have permission to access customer. Note: If you're accessing a client customer, the manager's customer id must be set in the 'login-customer-id' header. See https:\/\/developers.google.com\/google-ads\/api\/docs\/concepts\/call-structure#cid"
+                }
+            ],
+            "requestId": "lRLHj7bfw8Pvom3gA0IOWQ"
+        }
+    ]
+}
+2025-09-28T11:54:44+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 6337): ["RAM"].
+2025-09-28T11:54:44+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 6290): ["M\u00e0n h\u00ecnh"].
+2025-09-28T11:54:44+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 6288): ["M\u00e0n h\u00ecnh"].
+2025-09-28T11:54:44+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 6253): ["CPU"].
+2025-09-28T11:54:44+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 6246): ["M\u00e0n h\u00ecnh"].
+2025-09-28T11:54:51+00:00 ERROR Automattic\WooCommerce\GoogleListingsAndAds\API\Google\Ads::has_access {
+    "message": "The caller does not have permission",
+    "code": 7,
+    "status": "PERMISSION_DENIED",
+    "details": [
+        {
+            "@type": "type.googleapis.com\/google.ads.googleads.v20.errors.GoogleAdsFailure",
+            "errors": [
+                {
+                    "errorCode": {
+                        "authorizationError": "USER_PERMISSION_DENIED"
+                    },
+                    "message": "User doesn't have permission to access customer. Note: If you're accessing a client customer, the manager's customer id must be set in the 'login-customer-id' header. See https:\/\/developers.google.com\/google-ads\/api\/docs\/concepts\/call-structure#cid"
+                }
+            ],
+            "requestId": "YfNQSpSUIlysh4XYzEhkWQ"
+        }
+    ]
+}
+2025-09-28T11:55:22+00:00 ERROR Automattic\WooCommerce\GoogleListingsAndAds\API\Google\Ads::has_access {
+    "message": "The caller does not have permission",
+    "code": 7,
+    "status": "PERMISSION_DENIED",
+    "details": [
+        {
+            "@type": "type.googleapis.com\/google.ads.googleads.v20.errors.GoogleAdsFailure",
+            "errors": [
+                {
+                    "errorCode": {
+                        "authorizationError": "USER_PERMISSION_DENIED"
+                    },
+                    "message": "User doesn't have permission to access customer. Note: If you're accessing a client customer, the manager's customer id must be set in the 'login-customer-id' header. See https:\/\/developers.google.com\/google-ads\/api\/docs\/concepts\/call-structure#cid"
+                }
+            ],
+            "requestId": "iEalNej3i3L_ouxtCi79xw"
+        }
+    ]
+}
+2025-09-28T11:55:41+00:00 ERROR Automattic\WooCommerce\GoogleListingsAndAds\API\Google\Ads::has_access {
+    "message": "The caller does not have permission",
+    "code": 7,
+    "status": "PERMISSION_DENIED",
+    "details": [
+        {
+            "@type": "type.googleapis.com\/google.ads.googleads.v20.errors.GoogleAdsFailure",
+            "errors": [
+                {
+                    "errorCode": {
+                        "authorizationError": "USER_PERMISSION_DENIED"
+                    },
+                    "message": "User doesn't have permission to access customer. Note: If you're accessing a client customer, the manager's customer id must be set in the 'login-customer-id' header. See https:\/\/developers.google.com\/google-ads\/api\/docs\/concepts\/call-structure#cid"
+                }
+            ],
+            "requestId": "lLT2jZPYy2oXVZNDUCq_jg"
+        }
+    ]
+}
+2025-09-28T11:55:44+00:00 ERROR Automattic\WooCommerce\GoogleListingsAndAds\API\Google\Ads::has_access {
+    "message": "The caller does not have permission",
+    "code": 7,
+    "status": "PERMISSION_DENIED",
+    "details": [
+        {
+            "@type": "type.googleapis.com\/google.ads.googleads.v20.errors.GoogleAdsFailure",
+            "errors": [
+                {
+                    "errorCode": {
+                        "authorizationError": "USER_PERMISSION_DENIED"
+                    },
+                    "message": "User doesn't have permission to access customer. Note: If you're accessing a client customer, the manager's customer id must be set in the 'login-customer-id' header. See https:\/\/developers.google.com\/google-ads\/api\/docs\/concepts\/call-structure#cid"
+                }
+            ],
+            "requestId": "TQUXVND8zS1Mdw0NB_A1Eg"
+        }
+    ]
+}
+2025-09-28T11:55:47+00:00 ERROR Automattic\WooCommerce\GoogleListingsAndAds\API\Google\Ads::has_access {
+    "message": "The caller does not have permission",
+    "code": 7,
+    "status": "PERMISSION_DENIED",
+    "details": [
+        {
+            "@type": "type.googleapis.com\/google.ads.googleads.v20.errors.GoogleAdsFailure",
+            "errors": [
+                {
+                    "errorCode": {
+                        "authorizationError": "USER_PERMISSION_DENIED"
+                    },
+                    "message": "User doesn't have permission to access customer. Note: If you're accessing a client customer, the manager's customer id must be set in the 'login-customer-id' header. See https:\/\/developers.google.com\/google-ads\/api\/docs\/concepts\/call-structure#cid"
+                }
+            ],
+            "requestId": "Zzr2juEvBxW07ukI0KViiA"
+        }
+    ]
+}
+2025-09-28T11:55:50+00:00 ERROR Automattic\WooCommerce\GoogleListingsAndAds\API\Google\Ads::has_access {
+    "message": "The caller does not have permission",
+    "code": 7,
+    "status": "PERMISSION_DENIED",
+    "details": [
+        {
+            "@type": "type.googleapis.com\/google.ads.googleads.v20.errors.GoogleAdsFailure",
+            "errors": [
+                {
+                    "errorCode": {
+                        "authorizationError": "USER_PERMISSION_DENIED"
+                    },
+                    "message": "User doesn't have permission to access customer. Note: If you're accessing a client customer, the manager's customer id must be set in the 'login-customer-id' header. See https:\/\/developers.google.com\/google-ads\/api\/docs\/concepts\/call-structure#cid"
+                }
+            ],
+            "requestId": "iYEZV_Bb0n9SaLMA2AlOoQ"
+        }
+    ]
+}

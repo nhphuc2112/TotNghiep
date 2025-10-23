@@ -1,0 +1,55 @@
+2025-10-13T03:20:07+00:00 ERROR Automattic\WooCommerce\GoogleListingsAndAds\API\Google\MerchantPriceBenchmarks::get_price_comparisons_data {
+  "error": {
+    "code": 400,
+    "message": "Market Insights is not enabled for account 5668957343.",
+    "errors": [
+      {
+        "message": "Market Insights is not enabled for account 5668957343.",
+        "domain": "global",
+        "reason": "failedPrecondition"
+      }
+    ],
+    "status": "FAILED_PRECONDITION",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "conditionNotMet",
+        "domain": "global"
+      }
+    ]
+  }
+}
+2025-10-13T03:20:07+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\MerchantCenter\PriceBenchmarks::update_price_benchmarks Unable to retrieve price benchmark data
+2025-10-13T12:24:22+00:00 ERROR Automattic\WooCommerce\GoogleListingsAndAds\API\Google\AdsCampaign::get_campaigns {
+    "message": "<html>\r\n<head><title>502 Bad Gateway<\/title><\/head>\r\n<body>\r\n<center><h1>502 Bad Gateway<\/h1><\/center>\r\n<hr><center>nginx<\/center>\r\n<\/body>\r\n<\/html>\r\n",
+    "code": 13,
+    "status": "INTERNAL",
+    "details": []
+}
+2025-10-13T13:09:24+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 6337): ["RAM"].
+2025-10-13T13:09:24+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 6290): ["M\u00e0n h\u00ecnh"].
+2025-10-13T13:09:24+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 6288): ["M\u00e0n h\u00ecnh"].
+2025-10-13T13:09:24+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 6253): ["CPU"].
+2025-10-13T13:09:24+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 6246): ["M\u00e0n h\u00ecnh"].
+2025-10-13T15:20:14+00:00 ERROR Automattic\WooCommerce\GoogleListingsAndAds\API\Google\MerchantPriceBenchmarks::get_price_comparisons_data {
+  "error": {
+    "code": 400,
+    "message": "Market Insights is not enabled for account 5668957343.",
+    "errors": [
+      {
+        "message": "Market Insights is not enabled for account 5668957343.",
+        "domain": "global",
+        "reason": "failedPrecondition"
+      }
+    ],
+    "status": "FAILED_PRECONDITION",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "conditionNotMet",
+        "domain": "global"
+      }
+    ]
+  }
+}
+2025-10-13T15:20:14+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\MerchantCenter\PriceBenchmarks::update_price_benchmarks Unable to retrieve price benchmark data

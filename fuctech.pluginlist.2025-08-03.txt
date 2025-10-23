@@ -1,0 +1,104 @@
+------------------------------------------------------------
+  Plugin list generated with BackWPup version: 5.3.1
+  http://backwpup.com
+  Blog Name: fuctech
+  Blog URL: https://nhfuc.shop
+  Generated on: 2025-08-03 12:41.01
+------------------------------------------------------------
+
+
+All plugin information:
+------------------------------
+Advanced Custom Fields (v.6.4.2) from WP Engine
+	https://www.advancedcustomfields.com
+BackWPup (v.5.3.1) from BackWPup – WordPress Backup & Restore Plugin
+	https://backwpup.com/
+Contact Form 7 (v.6.1) from Takayuki Miyoshi
+	https://contactform7.com/
+Electro Extensions (v.3.6.2) from MadrasThemes
+	https://electro.madrasthemes.com/
+Elementor (v.3.30.2) from Elementor.com
+	https://elementor.com/?utm_source=wp-plugins&utm_campaign=plugin-uri&utm_medium=wp-dash
+Elementor Pro (v.3.30.0) from Elementor.com
+	https://go.elementor.com/wp-dash-wp-plugins-author-uri/
+Envato Market (v.2.0.12) from Envato
+	https://envato.com/market-plugin/
+Google for WooCommerce (v.3.1.1) from WooCommerce
+	
+Image Optimizer - Compress, Resize and Optimize Images (v.1.6.7) from Elementor.com
+	https://go.elementor.com/wp-repo-description-tab-io-product-page/
+Jetpack (v.14.8) from Automattic
+	https://jetpack.com
+Klaviyo (v.3.7.0) from Klaviyo, Inc.
+	https://wordpress.org/plugins/klaviyo/
+LiteSpeed Cache (v.7.2) from LiteSpeed Technologies
+	https://www.litespeedtech.com/products/cache-plugins/wordpress-acceleration
+MAS Brands for WooCommerce (v.1.1.0) from MadrasThemes
+	https://github.com/madrasthemes/mas-woocommerce-brands
+MAS Static Content (v.1.0.9) from MadrasThemes
+	https://github.com/madrasthemes/mas-static-content
+One Click Demo Import (v.3.3.0) from OCDI
+	https://wordpress.org/plugins/one-click-demo-import/
+Pinterest for WooCommerce (v.1.4.21) from WooCommerce
+	https://woocommerce.com/products/pinterest-for-woocommerce/
+Redux Framework (v.4.5.7) from Team Redux
+	https://wordpress.org/plugins/redux-framework
+SePay Gateway (v.1.1.18) from SePay Team
+	https://docs.sepay.vn/woocommerce.html
+Site Kit by Google (v.1.158.0) from Google
+	https://sitekit.withgoogle.com
+Slider Revolution (v.6.7.35) from ThemePunch
+	https://www.sliderrevolution.com/?utm_source=admin&utm_medium=button&utm_campaign=srusers&utm_content=info
+WooCommerce (v.9.9.5) from Automattic
+	https://woocommerce.com/
+Woocommerce - Giao Hàng Nhanh (GHN) (v.2.0.6) from GHN - Dev by Le Van Toan
+	https://levantoan.com/san-pham/plugin-ket-noi-giao-hang-nhanh-voi-woocommerce/
+WPBakery Page Builder (v.8.5) from WPBakery
+	https://wpbakery.com
+WPForms (v.1.6.8.1) from WPForms
+	https://wpforms.com
+WPForms Lite (v.1.9.6.2) from WPForms
+	https://wpforms.com
+YITH WooCommerce Compare (v.3.2.0) from YITH
+	https://yithemes.com/themes/plugins/yith-woocommerce-compare/
+YITH WooCommerce Wishlist (v.4.7.0) from YITH
+	https://yithemes.com/themes/plugins/yith-woocommerce-wishlist/
+Yoast SEO (v.25.4) from Team Yoast
+	https://yoa.st/1uj
+Yoast SEO Premium (v.25.4) from Team Yoast
+	https://yoa.st/2jc
+
+Active plugins:
+------------------------------
+Advanced Custom Fields
+BackWPup
+Contact Form 7
+Electro Extensions
+Elementor
+Elementor Pro
+Envato Market
+Google for WooCommerce
+Image Optimizer - Compress, Resize and Optimize Images
+Jetpack
+Klaviyo
+LiteSpeed Cache
+MAS Brands for WooCommerce
+MAS Static Content
+One Click Demo Import
+Pinterest for WooCommerce
+Redux Framework
+SePay Gateway
+Site Kit by Google
+Slider Revolution
+WooCommerce
+Woocommerce - Giao Hàng Nhanh (GHN)
+WPBakery Page Builder
+WPForms
+YITH WooCommerce Compare
+YITH WooCommerce Wishlist
+Yoast SEO
+Yoast SEO Premium
+
+Inactive plugins:
+------------------------------
+WPForms Lite

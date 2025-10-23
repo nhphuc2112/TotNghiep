@@ -1,0 +1,442 @@
+# Copyright (C) 2021 Sandhills Development, LLC
+# This file is distributed under the same license as the AffiliateWP - REST API Extended plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: AffiliateWP - REST API Extended 1.0.5\n"
+"Report-Msgid-Bugs-To: https://affiliatewp.com/support/\n"
+"Last-Translator: AffiliateWP <support@affiliatewp.com>\n"
+"Language-Team: AffiliateWP <support@affiliatewp.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-06-01T21:14:06+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0-alpha\n"
+"X-Domain: affiliatewp-rest-api-extended\n"
+
+#. Plugin Name of the plugin
+msgid "AffiliateWP - REST API Extended"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://affiliatewp.com/add-ons/pro/rest-api-extended/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Adds write, edit, and delete endpoints to the AffiliateWP REST API."
+msgstr ""
+
+#. Author of the plugin
+msgid "Sandhills Development, LLC"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://sandhillsdev.com"
+msgstr ""
+
+#: affiliatewp-rest-api-extended.php:111
+#: affiliatewp-rest-api-extended.php:122
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: affiliatewp-rest-api-extended.php:154
+msgid "AffiliateWP - REST API requires AffiliateWP 2.0 or later."
+msgstr ""
+
+#: affiliatewp-rest-api-extended.php:269
+msgid "Get more add-ons for AffiliateWP"
+msgstr ""
+
+#: affiliatewp-rest-api-extended.php:269
+msgid "More add-ons"
+msgstr ""
+
+#: affiliatewp-rest-api-extended.php:298
+msgid "Please activate the main AffiliateWP plugin in order to use AffiliateWP - REST API Extended."
+msgstr ""
+
+#: includes/admin/class-settings.php:32
+msgid "REST API"
+msgstr ""
+
+#: includes/admin/class-settings.php:49
+msgid "Affiliate Endpoints"
+msgstr ""
+
+#: includes/admin/class-settings.php:53
+msgctxt "affiliates via REST"
+msgid "Read"
+msgstr ""
+
+#. translators: 'GET' (method) in code tags
+#: includes/admin/class-settings.php:57
+#: includes/admin/class-settings.php:104
+#: includes/admin/class-settings.php:151
+#: includes/admin/class-settings.php:198
+#: includes/admin/class-settings.php:245
+#: includes/admin/class-settings.php:292
+msgid "Enabled by AffiliateWP core. Cannot be disabled. Accessed via the %1$s method."
+msgstr ""
+
+#: includes/admin/class-settings.php:64
+msgctxt "affiliates via REST"
+msgid "Create"
+msgstr ""
+
+#. translators: 'POST' (method) wrapped in code tags
+#: includes/admin/class-settings.php:67
+msgctxt "affiliate POST"
+msgid "Enables the %1$s method"
+msgstr ""
+
+#: includes/admin/class-settings.php:75
+msgctxt "affiliates via REST"
+msgid "Edit/Update"
+msgstr ""
+
+#. translators: 1: 'POST' (method) in code tags, 2: 'PUT' (method), 3: 'PATCH' (method)
+#: includes/admin/class-settings.php:78
+#: includes/admin/class-settings.php:125
+#: includes/admin/class-settings.php:172
+#: includes/admin/class-settings.php:219
+#: includes/admin/class-settings.php:266
+#: includes/admin/class-settings.php:313
+msgid "Enables the %1$s, %2$s, and %3$s methods."
+msgstr ""
+
+#: includes/admin/class-settings.php:86
+msgctxt "affiliates via REST"
+msgid "Delete"
+msgstr ""
+
+#. translators: 'DELETE' (method) in code tags
+#: includes/admin/class-settings.php:89
+msgctxt "affiliate DELETE"
+msgid "Enables the %1$s method"
+msgstr ""
+
+#: includes/admin/class-settings.php:96
+msgid "Creative Endpoints"
+msgstr ""
+
+#: includes/admin/class-settings.php:100
+msgctxt "creatives via REST"
+msgid "Read"
+msgstr ""
+
+#: includes/admin/class-settings.php:111
+msgctxt "creatives via REST"
+msgid "Create"
+msgstr ""
+
+#. translators: 'POST' (method) in code tags
+#: includes/admin/class-settings.php:114
+msgctxt "creative POST"
+msgid "Enables the %1$s method"
+msgstr ""
+
+#: includes/admin/class-settings.php:122
+msgctxt "creatives via REST"
+msgid "Edit/Update"
+msgstr ""
+
+#: includes/admin/class-settings.php:133
+msgctxt "creatives via REST"
+msgid "Delete"
+msgstr ""
+
+#. translators: 'DELETE' (method) in code tags
+#: includes/admin/class-settings.php:136
+msgctxt "creative DELETE"
+msgid "Enables the %1$s method"
+msgstr ""
+
+#: includes/admin/class-settings.php:143
+msgid "Customer Endpoints"
+msgstr ""
+
+#: includes/admin/class-settings.php:147
+msgctxt "customers via REST"
+msgid "Read"
+msgstr ""
+
+#: includes/admin/class-settings.php:158
+msgctxt "customers via REST"
+msgid "Create"
+msgstr ""
+
+#. translators: 'POST' (method) wrapped in code tags
+#: includes/admin/class-settings.php:161
+msgctxt "customer POST"
+msgid "Enables the %1$s method"
+msgstr ""
+
+#: includes/admin/class-settings.php:169
+msgctxt "customers via REST"
+msgid "Edit/Update"
+msgstr ""
+
+#: includes/admin/class-settings.php:180
+msgctxt "customers via REST"
+msgid "Delete"
+msgstr ""
+
+#. translators: 'DELETE' (method) in code tags
+#: includes/admin/class-settings.php:183
+msgctxt "customer DELETE"
+msgid "Enables the %1$s method"
+msgstr ""
+
+#: includes/admin/class-settings.php:190
+msgid "Payout Endpoints"
+msgstr ""
+
+#: includes/admin/class-settings.php:194
+msgctxt "payouts via REST"
+msgid "Read"
+msgstr ""
+
+#: includes/admin/class-settings.php:205
+msgctxt "payouts via REST"
+msgid "Create"
+msgstr ""
+
+#. translators: 'POST' (method) wrapped in code tags
+#: includes/admin/class-settings.php:208
+msgctxt "payout POST"
+msgid "Enables the %1$s method"
+msgstr ""
+
+#: includes/admin/class-settings.php:216
+msgctxt "payouts via REST"
+msgid "Edit/Update"
+msgstr ""
+
+#: includes/admin/class-settings.php:227
+msgctxt "payouts via REST"
+msgid "Delete"
+msgstr ""
+
+#. translators: 'DELETE' (method) in code tags
+#: includes/admin/class-settings.php:230
+msgctxt "payout DELETE"
+msgid "Enables the %1$s method"
+msgstr ""
+
+#: includes/admin/class-settings.php:237
+msgid "Referral Endpoints"
+msgstr ""
+
+#: includes/admin/class-settings.php:241
+msgctxt "referrals via REST"
+msgid "Read"
+msgstr ""
+
+#: includes/admin/class-settings.php:252
+msgctxt "referrals via REST"
+msgid "Create"
+msgstr ""
+
+#. translators: 'POST' (method) wrapped in code tags
+#: includes/admin/class-settings.php:255
+msgctxt "referral POST"
+msgid "Enables the %1$s method"
+msgstr ""
+
+#: includes/admin/class-settings.php:263
+msgctxt "referrals via REST"
+msgid "Edit/Update"
+msgstr ""
+
+#: includes/admin/class-settings.php:274
+msgctxt "referrals via REST"
+msgid "Delete"
+msgstr ""
+
+#. translators: 'DELETE' (method) in code tags
+#: includes/admin/class-settings.php:277
+msgctxt "referral DELETE"
+msgid "Enables the %1$s method"
+msgstr ""
+
+#: includes/admin/class-settings.php:284
+msgid "Visit Endpoints"
+msgstr ""
+
+#: includes/admin/class-settings.php:288
+msgctxt "visits via REST"
+msgid "Read"
+msgstr ""
+
+#: includes/admin/class-settings.php:299
+msgctxt "visits via REST"
+msgid "Create"
+msgstr ""
+
+#. translators: 'POST' (method) wrapped in code tags
+#: includes/admin/class-settings.php:302
+msgctxt "visit POST"
+msgid "Enables the %1$s method"
+msgstr ""
+
+#: includes/admin/class-settings.php:310
+msgctxt "visits via REST"
+msgid "Edit/Update"
+msgstr ""
+
+#: includes/admin/class-settings.php:321
+msgctxt "visits via REST"
+msgid "Delete"
+msgstr ""
+
+#. translators: 'DELETE' (method) in code tags
+#: includes/admin/class-settings.php:324
+msgctxt "visit DELETE"
+msgid "Enables the %1$s method"
+msgstr ""
+
+#: includes/REST/v1/affiliates/class-create-endpoint.php:48
+msgid "Cannot create existing affiliate."
+msgstr ""
+
+#: includes/REST/v1/affiliates/class-create-endpoint.php:82
+msgid "A user_id must be specified to create an affiliate."
+msgstr ""
+
+#: includes/REST/v1/affiliates/class-create-endpoint.php:96
+msgid "The affiliate could not be added."
+msgstr ""
+
+#: includes/REST/v1/affiliates/class-create-endpoint.php:144
+msgid "Whether to create a user account for the new affiliate. payment_email is required for creating a user."
+msgstr ""
+
+#: includes/REST/v1/affiliates/class-create-endpoint.php:166
+msgid "A payment email value is required to create a user when adding a new affiliate."
+msgstr ""
+
+#: includes/REST/v1/affiliates/class-delete-endpoint.php:52
+#: includes/REST/v1/affiliates/class-edit-endpoint.php:76
+msgid "The affiliate could not be found."
+msgstr ""
+
+#: includes/REST/v1/affiliates/class-delete-endpoint.php:66
+msgid "The affiliate could not be deleted."
+msgstr ""
+
+#: includes/REST/v1/affiliates/class-edit-endpoint.php:68
+msgid "The affiliate could not be updated."
+msgstr ""
+
+#: includes/REST/v1/creatives/class-create-endpoint.php:47
+msgid "Cannot create existing creative."
+msgstr ""
+
+#: includes/REST/v1/creatives/class-create-endpoint.php:58
+msgid "The creative could not be added."
+msgstr ""
+
+#: includes/REST/v1/creatives/class-delete-endpoint.php:52
+msgid "The creative could not be found."
+msgstr ""
+
+#: includes/REST/v1/creatives/class-delete-endpoint.php:66
+msgid "The creative could not be deleted."
+msgstr ""
+
+#: includes/REST/v1/customers/class-create-endpoint.php:45
+msgid "Cannot create existing customer."
+msgstr ""
+
+#: includes/REST/v1/customers/class-create-endpoint.php:53
+msgid "An email must be specified to create a customer."
+msgstr ""
+
+#: includes/REST/v1/customers/class-create-endpoint.php:64
+#: includes/REST/v1/customers/class-edit-endpoint.php:62
+msgid "The given customer email is already in use."
+msgstr ""
+
+#: includes/REST/v1/customers/class-create-endpoint.php:75
+msgid "The customer could not be added."
+msgstr ""
+
+#: includes/REST/v1/customers/class-delete-endpoint.php:50
+#: includes/REST/v1/customers/class-edit-endpoint.php:49
+msgid "The customer could not be found."
+msgstr ""
+
+#: includes/REST/v1/customers/class-delete-endpoint.php:64
+msgid "The customer could not be deleted."
+msgstr ""
+
+#: includes/REST/v1/customers/class-edit-endpoint.php:71
+msgid "The customer could not be updated."
+msgstr ""
+
+#: includes/REST/v1/payouts/class-create-endpoint.php:47
+msgid "Cannot create existing payout."
+msgstr ""
+
+#: includes/REST/v1/payouts/class-create-endpoint.php:55
+msgid "The referrals parameter cannot be empty."
+msgstr ""
+
+#: includes/REST/v1/payouts/class-create-endpoint.php:66
+msgid "The payout could not be generated."
+msgstr ""
+
+#: includes/REST/v1/payouts/class-delete-endpoint.php:52
+#: includes/REST/v1/payouts/class-edit-endpoint.php:62
+msgid "The payout could not be found."
+msgstr ""
+
+#: includes/REST/v1/payouts/class-delete-endpoint.php:66
+msgid "The payout could not be deleted."
+msgstr ""
+
+#: includes/REST/v1/payouts/class-edit-endpoint.php:54
+msgid "The payout could not be updated."
+msgstr ""
+
+#: includes/REST/v1/referrals/class-create-endpoint.php:47
+msgid "Cannot create an existing referral."
+msgstr ""
+
+#: includes/REST/v1/referrals/class-create-endpoint.php:58
+msgid "The referral could not be added."
+msgstr ""
+
+#: includes/REST/v1/referrals/class-delete-endpoint.php:52
+#: includes/REST/v1/referrals/class-edit-endpoint.php:62
+msgid "The referral could not be found."
+msgstr ""
+
+#: includes/REST/v1/referrals/class-delete-endpoint.php:66
+msgid "The referral could not be deleted."
+msgstr ""
+
+#: includes/REST/v1/referrals/class-edit-endpoint.php:54
+msgid "The referral could not be updated."
+msgstr ""
+
+#: includes/REST/v1/visits/class-create-endpoint.php:47
+msgid "Cannot create an existing visit."
+msgstr ""
+
+#: includes/REST/v1/visits/class-create-endpoint.php:58
+msgid "The visit could not be added."
+msgstr ""
+
+#: includes/REST/v1/visits/class-delete-endpoint.php:52
+#: includes/REST/v1/visits/class-edit-endpoint.php:62
+msgid "The visit could not be found."
+msgstr ""
+
+#: includes/REST/v1/visits/class-delete-endpoint.php:66
+msgid "The visit could not be deleted."
+msgstr ""
+
+#: includes/REST/v1/visits/class-edit-endpoint.php:54
+msgid "The visit could not be updated."
+msgstr ""

@@ -1,0 +1,183 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPForms Google Drive 1.1.0\n"
+"Report-Msgid-Bugs-To: https://wpforms.com/support/\n"
+"Last-Translator: WPForms <support@wpforms.com>\n"
+"Language-Team: WPForms <support@wpforms.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-07-09T14:29:22+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: wpforms-google-drive\n"
+
+#. Plugin Name of the plugin
+msgid "WPForms Google Drive"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://wpforms.com"
+msgstr ""
+
+#. Description of the plugin
+msgid "Google Drive integration with WPForms."
+msgstr ""
+
+#. Author of the plugin
+msgid "WPForms"
+msgstr ""
+
+#: src/Admin/Admin.php:166
+msgid "This action will upload files to Google Drive and delete them from the server. Do you want to continue?"
+msgstr ""
+
+#: src/Admin/Admin.php:167
+msgid "Yes, Upload and Delete"
+msgstr ""
+
+#: src/Admin/Entry.php:98
+msgid "Reupload to Google Drive"
+msgstr ""
+
+#: src/Admin/Entry.php:177
+msgid "Files were skipped because they were previously uploaded to Google Drive successfully."
+msgstr ""
+
+#. translators: %d – number of uploaded files.
+#: src/Admin/Entry.php:186
+msgid "%d file was reuploaded to Google Drive."
+msgid_plural "%d files were reuploaded to Google Drive."
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/Admin/Entry.php:317
+msgid "View in Google Drive"
+msgstr ""
+
+#: src/Admin/Export.php:54
+msgid "Google Drive Links"
+msgstr ""
+
+#: src/Admin/Export.php:144
+msgid "Google Drive Links: Field"
+msgstr ""
+
+#: src/Api/Client.php:125
+msgid "Cannot refresh the token."
+msgstr ""
+
+#: src/Provider/Account.php:78
+msgid "A Google account with these credentials has already been added. Please try connecting a different account or verify the existing account details."
+msgstr ""
+
+#: src/Provider/Settings/FormBuilder.php:327
+msgid "Marketing provider connection"
+msgstr ""
+
+#: src/Provider/Settings/FormBuilder.php:434
+msgid "The Media Library file deletion setting affects all connections in this form. Are you sure you want to continue?"
+msgstr ""
+
+#: src/Provider/Settings/FormBuilder.php:435
+msgid "Yes, Continue"
+msgstr ""
+
+#: src/Provider/Settings/FormBuilder.php:436
+msgid "Dropbox cannot be enabled because it's incompatible with Google Drive, which is already connected to this form. Remove the Google Drive connection to proceed."
+msgstr ""
+
+#: src/Provider/Settings/FormBuilder.php:437
+msgid "Google Drive cannot be enabled because it's incompatible with Dropbox, which is already connected to this form. Remove the Dropbox connection to proceed."
+msgstr ""
+
+#: src/Provider/Settings/FormBuilder.php:528
+msgid "Google Drive"
+msgstr ""
+
+#: src/Provider/Settings/FormBuilder.php:546
+msgid "Easily send file uploads to a folder of your choosing on Google Drive"
+msgstr ""
+
+#: src/Provider/Settings/FormBuilder.php:547
+msgid "Connect your Google Account to start working with Google Drive"
+msgstr ""
+
+#: src/Provider/Settings/FormBuilder.php:559
+msgid "Learn how to get started with Google Drive"
+msgstr ""
+
+#. translators: %1$s - documentation URL.
+#: src/Provider/Settings/PageIntegrations.php:37
+msgid "If you need help connecting WPForms to Google Drive, <a href=\"%1$s\" rel=\"noopener\" target=\"_blank\">read our documentation</a>."
+msgstr ""
+
+#: templates/builder/connection.php:24
+msgid "Account"
+msgstr ""
+
+#: templates/builder/connection.php:27
+msgid "--- Select Account ---"
+msgstr ""
+
+#: templates/builder/connection.php:41
+msgid "Folder"
+msgstr ""
+
+#: templates/builder/connection.php:47
+msgid "Create New"
+msgstr ""
+
+#: templates/builder/connection.php:51
+msgid "Select Existing"
+msgstr ""
+
+#: templates/builder/connection.php:65
+msgid "Select Folder"
+msgstr ""
+
+#: templates/builder/connection.php:73
+msgid "View Folder on Drive"
+msgstr ""
+
+#: templates/builder/connection.php:77
+msgid "Remove Folder Connection"
+msgstr ""
+
+#: templates/builder/connection.php:85
+msgid "Folder Name"
+msgstr ""
+
+#: templates/builder/connection.php:98
+msgid "File Upload Fields"
+msgstr ""
+
+#: templates/builder/connection.php:104
+msgid "All File Upload Fields"
+msgstr ""
+
+#: templates/builder/connection.php:122
+msgid "Advanced Options"
+msgstr ""
+
+#: templates/builder/connection.php:128
+msgid "Delete Local Files After Upload"
+msgstr ""
+
+#: templates/builder/connection.php:129
+msgid "Once the files are successfully uploaded to Google Drive, they will be deleted from your server."
+msgstr ""
+
+#: templates/builder/connection.php:133
+msgid "Enabling this setting will result in broken links in Google Sheets."
+msgstr ""
+
+#: templates/builder/error.php:10
+msgid "Something went wrong while performing an AJAX request."
+msgstr ""
+
+#: templates/sign-in.php:34
+#: templates/sign-in.php:35
+msgid "Continue with Google"
+msgstr ""

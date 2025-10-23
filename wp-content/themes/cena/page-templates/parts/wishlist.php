@@ -1,0 +1,3 @@
+<?php if( class_exists( 'YITH_WCWL' ) ) { ?>
+<a class="text-skin wishlist-icon" href="<?php $wishlist_url = YITH_WCWL()->get_wishlist_url(); echo esc_url($wishlist_url); ?>"><i class="fa fa-heart-o" aria-hidden="true"></i><span class="count_wishlist"><?php $wishlist_count = (YITH_WCWL_VERSION >= '4.0.0') ? yith_wcwl_count_products() : YITH_WCWL()->count_products(); echo esc_html($wishlist_count); ?></span></a>
+<?php } ?>

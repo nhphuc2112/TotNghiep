@@ -1,0 +1,29 @@
+.wp-list-table #description {
+    width: 34%;
+}
+
+.wp-list-table #actions {
+    width: 15%;
+}
+
+.wp-list-table #slug,
+.wp-list-table #count {
+    width: 8%;
+}
+
+.wp-list-table .column-count {
+    text-align: center;
+}
+
+button#product_brand_thumbnail_upload, button#product_brand_thumbnail_remove,
+button#product_brand_banner_upload, button#product_brand_banner_upload {
+    margin-top: 10px;
+}
+
+.taxonomy-yith_product_brand .yith-plugin-fw__list-table-blank-state {
+    padding-top : 120px;
+}
+
+.taxonomy-yith_product_brand #addtag select {
+    width: 100%;
+}

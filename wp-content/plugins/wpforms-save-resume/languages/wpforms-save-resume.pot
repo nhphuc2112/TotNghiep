@@ -1,0 +1,232 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPForms Save and Resume 1.12.0\n"
+"Report-Msgid-Bugs-To: https://wpforms.com/support/\n"
+"Last-Translator: WPForms <support@wpforms.com>\n"
+"Language-Team: WPForms <support@wpforms.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-12-11T08:24:04+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: wpforms-save-resume\n"
+
+#. Plugin Name of the plugin
+msgid "WPForms Save and Resume"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://wpforms.com"
+msgstr ""
+
+#. Description of the plugin
+msgid "Save partial entries and resume them later with WPForms."
+msgstr ""
+
+#. Author of the plugin
+msgid "WPForms"
+msgstr ""
+
+#: src/Admin/Admin.php:91
+#: src/Admin/Admin.php:334
+#: src/Admin/Builder.php:74
+#: src/Admin/Builder.php:91
+msgid "Save and Resume"
+msgstr ""
+
+#: src/Admin/Admin.php:173
+msgid "Partial"
+msgstr ""
+
+#. translators: %d - number of days before the entry expires.
+#: src/Admin/Admin.php:322
+msgid "%d day"
+msgid_plural "%d days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/Admin/Admin.php:335
+msgid "Expires:"
+msgstr ""
+
+#: src/Admin/Admin.php:338
+msgid "Copied!"
+msgstr ""
+
+#: src/Admin/Admin.php:339
+#: templates/confirmation.php:57
+msgid "Copy Link"
+msgstr ""
+
+#. translators: %s - Link to the WPForms.com doc article.
+#: src/Admin/Builder.php:99
+msgid "Allow users to save their progress and resume submitting this form later. A link will be sent to the user which will allow them to simply return to this form with their progress intact. Sensitive information like credit cards and file uploads will not be saved and the user will have to re-enter them. <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">Read more about Save and Resume.</a>"
+msgstr ""
+
+#: src/Admin/Builder.php:118
+msgid "Enable Save and Resume"
+msgstr ""
+
+#: src/Admin/Builder.php:128
+msgid "Link Text"
+msgstr ""
+
+#: src/Admin/Builder.php:130
+msgid "This text is displayed next to the submit button, and allows users to save their progress."
+msgstr ""
+
+#: src/Admin/Builder.php:143
+msgid "Enable Disclaimer Page"
+msgstr ""
+
+#: src/Admin/Builder.php:151
+msgid "This page is displayed before the user actually commits to saving their progress."
+msgstr ""
+
+#: src/Admin/Builder.php:152
+msgid "Disclaimer Page"
+msgstr ""
+
+#: src/Admin/Builder.php:161
+#: src/Admin/Builder.php:181
+#: src/Admin/Builder.php:265
+msgid "Display Message"
+msgstr ""
+
+#: src/Admin/Builder.php:197
+msgid "This page is displayed once the user clicks the Save and Resume link and provides instructions for resuming."
+msgstr ""
+
+#: src/Admin/Builder.php:198
+msgid "Confirmation Page"
+msgstr ""
+
+#: src/Admin/Builder.php:208
+msgid "Enable Resume Link"
+msgstr ""
+
+#: src/Admin/Builder.php:210
+msgid "Allow the user to copy a link, which they can paste in their address bar to resume later."
+msgstr ""
+
+#: src/Admin/Builder.php:221
+msgid "Enable Email Notification"
+msgstr ""
+
+#: src/Admin/Builder.php:223
+msgid "Allow the user to receive an email with a link to resume later."
+msgstr ""
+
+#: src/Admin/Builder.php:237
+msgid "Email Notification"
+msgstr ""
+
+#: src/Admin/Builder.php:254
+msgid "When the user chooses to email a link, they are shown the following success message and receive an email with the link."
+msgstr ""
+
+#: src/Admin/Builder.php:255
+msgid "Email Settings"
+msgstr ""
+
+#: src/Admin/Builder.php:302
+msgid "One option must be enabled so that your visitors can resume their entry."
+msgstr ""
+
+#: src/Admin/Builder.php:303
+msgid "You started to configure the Save and Resume addon. Please fill out all required fields or disable the addon."
+msgstr ""
+
+#: src/Admin/Builder.php:304
+msgid "Save and Resume can't be activated because entry storage is disabled. Please visit the General settings and enable entry storage for this form."
+msgstr ""
+
+#: src/Enqueues.php:134
+msgid "Unfortunately, we couldn't save your entry. If the problem persists, please contact the site administrator."
+msgstr ""
+
+#. translators: %d - choice number.
+#: src/Entry.php:478
+msgid "Choice %d"
+msgstr ""
+
+#. translators: %s - page URL without Save and Resume GET variables.
+#: src/Frontend.php:889
+msgid "Unfortunately, the link you used to resume the form submission was already used. <a href=\"%s\">Click here</a> to fill in the form again."
+msgstr ""
+
+#: src/ResumeLink.php:46
+msgid "Resume Link"
+msgstr ""
+
+#: src/ResumeLink.php:96
+msgid "Resume Form Submission"
+msgstr ""
+
+#: src/Settings.php:21
+msgid "Save and Resume Later"
+msgstr ""
+
+#: src/Settings.php:33
+msgid "Heads up! Saving your progress now will store a copy of your entry on this server and the site owner may have access to it. For security reasons, sensitive information such as credit cards and mailing addresses, along with file uploads will have to be re-entered when you resume."
+msgstr ""
+
+#: src/Settings.php:45
+msgid "Your form entry has been saved and a unique link has been created which you can access to resume this form."
+msgstr ""
+
+#: src/Settings.php:46
+msgid "Enter your email address to receive the link via email. Alternatively, you can copy and save the link below."
+msgstr ""
+
+#: src/Settings.php:47
+msgid "Please note, this link should not be shared and will expire in 30 days, afterwards your form entry will be deleted."
+msgstr ""
+
+#: src/Settings.php:61
+msgid "A link to resume this form has been sent to the email address provided."
+msgstr ""
+
+#: src/Settings.php:62
+msgid "Please remember, the link should not be shared and will expire in 30 days."
+msgstr ""
+
+#. translators: %s - form name.
+#: src/Settings.php:77
+msgid "Thank you for saving %s. Click the link below to resume the form from any device."
+msgstr ""
+
+#: src/Settings.php:81
+msgid "Remember, the link should not be shared and will expire in 30 days."
+msgstr ""
+
+#. translators: %s - page URL without Save and Resume GET variables.
+#: src/Settings.php:99
+msgid "Unfortunately, the link you used to resume the form submission has expired. <a href=\"%s\">Click here</a> to fill in the form again."
+msgstr ""
+
+#: src/Settings.php:121
+msgid "Your Form Submission Resume link"
+msgstr ""
+
+#: templates/confirmation.php:61
+msgid "Copy resume link to clipboard"
+msgstr ""
+
+#: templates/confirmation.php:72
+msgid "Email"
+msgstr ""
+
+#: templates/confirmation.php:82
+msgid "Send Link"
+msgstr ""
+
+#: templates/disclaimer.php:34
+msgid "Continue"
+msgstr ""
+
+#: templates/disclaimer.php:37
+msgid "Go Back"
+msgstr ""

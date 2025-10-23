@@ -1,0 +1,258 @@
+# Translation of YITH WooCommerce Brands Add-On 2.0 - Free in Dutch
+# This file is distributed under the same license as the YITH WooCommerce Brands Add-On 2.0 - Free package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-05-10 12:03:21+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: nl\n"
+"Project-Id-Version: YITH WooCommerce Brands Add-On 2.0 - Free\n"
+
+#: includes/widget/elementor/class-yith-wcbr-elementor-product-brand.php:119
+msgid "Appearance"
+msgstr ""
+
+#: includes/widget/elementor/class-yith-wcbr-elementor-product-brand.php:89
+msgid "General"
+msgstr "Algemeen"
+
+#: includes/class-yith-wcbr-shortcode.php:86
+#: includes/class-yith-wcbr-shortcode.php:139
+#: includes/widget/elementor/class-yith-wcbr-elementor-product-brand.php:144
+msgid "Hide title"
+msgstr ""
+
+#: includes/class-yith-wcbr-shortcode.php:76
+#: includes/class-yith-wcbr-shortcode.php:130
+#: includes/widget/elementor/class-yith-wcbr-elementor-product-brand.php:131
+msgid "Hide logo"
+msgstr ""
+
+#: includes/widget/elementor/class-yith-wcbr-elementor-product-brand.php:107
+msgid "Product ID:"
+msgstr ""
+
+#: includes/class-yith-wcbr-admin.php:433
+msgid "Brands deleted."
+msgstr ""
+
+#: includes/class-yith-wcbr-admin.php:432
+msgid "Brand not updated."
+msgstr ""
+
+#: includes/class-yith-wcbr-admin.php:431
+msgid "Brand not added."
+msgstr ""
+
+#: includes/class-yith-wcbr-admin.php:430
+msgid "Brand updated."
+msgstr ""
+
+#: includes/class-yith-wcbr-admin.php:429
+msgid "Brand deleted."
+msgstr ""
+
+#: includes/class-yith-wcbr-admin.php:428
+msgid "Brand added."
+msgstr ""
+
+#: includes/class-yith-wcbr-admin.php:138
+msgid "Regular updates, translations, and premium support"
+msgstr ""
+
+#: includes/class-yith-wcbr-admin.php:137
+msgid "Integration with YITH WooCommerce Dynamic Pricing and Discounts to <b>create offers, discount rules and promotions only for products of specific brands</b>"
+msgstr ""
+
+#: includes/class-yith-wcbr-admin.php:136
+msgid "Integration with YITH WooCommerce Ajax Product Filter to <b>show a \"Filter by brand\" on the Shop page</b>"
+msgstr ""
+
+#: includes/class-yith-wcbr-admin.php:135
+msgid "<b>9 shortcodes</b> to highlight brands in different ways"
+msgstr ""
+
+#: includes/class-yith-wcbr-admin.php:134
+msgid "<b>5 widgets</b> to show a list of brands, brand logos, sliders, etc. in a widgetized area"
+msgstr ""
+
+#: includes/class-yith-wcbr-admin.php:133
+msgid "Show brands also on the Shop page and <b>customize the size and position</b>"
+msgstr ""
+
+#: includes/class-yith-wcbr-admin.php:132
+msgid "Set up other product taxonomies available as \"brands\" (i.e. categories, tags, and attributes)"
+msgstr ""
+
+#: includes/class-yith-wcbr-admin.php:131
+msgid "Upload a <b>banner image</b> to customize the brand archive page"
+msgstr ""
+
+#: includes/class-yith-wcbr-admin.php:130
+msgid "Set a default image to apply to brands without a logo"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "<code><strong>YITH WooCommerce Brands Add-On</strong></code> allows organizing products by brand and improves your shop user experience and your visibility on search engines. Let your customers browse your shop based on their favourite brands with only a few clicks. <a href=\"https://yithemes.com/\" target=\"_blank\">Get more plugins for your e-commerce on <strong>YITH</strong></a>"
+msgstr ""
+
+#: views/add-brand-taxonomy-form.php:23 views/edit-brand-taxonomy-form.php:24
+msgid "Remove image"
+msgstr "Verwijder afbeelding"
+
+#: views/add-brand-taxonomy-form.php:22 views/edit-brand-taxonomy-form.php:23
+msgid "Upload/Add image"
+msgstr "Upload/toevoegen afbeelding"
+
+#: views/edit-brand-taxonomy-form.php:20
+msgid "Product brand thumbnail"
+msgstr ""
+
+#: plugin-options/settings-options.php:28
+msgid "Brand:"
+msgstr "Merk:"
+
+#: plugin-options/settings-options.php:27
+msgid "Set the text for the brand label."
+msgstr ""
+
+#: plugin-options/settings-options.php:24
+msgid "Brand label"
+msgstr "Merk label"
+
+#. translators: %s: plugin name
+#: init.php:158
+msgid "You can't activate the free version of %s while you are using the premium one."
+msgstr ""
+
+#. translators: %s: plugin name
+#: init.php:144
+msgid "%s is enabled but not effective. It requires WooCommerce in order to work."
+msgstr ""
+
+#: includes/class-yith-wcbr.php:144
+msgid "&larr; Go to brands"
+msgstr ""
+
+#: includes/class-yith-wcbr.php:143
+msgid "No brands found"
+msgstr ""
+
+#: includes/class-yith-wcbr.php:142
+msgid "Separate brands with commas"
+msgstr "Scheid merken met komma's"
+
+#: includes/class-yith-wcbr.php:141
+msgid "Search brands"
+msgstr ""
+
+#: includes/class-yith-wcbr.php:140
+msgid "Parent brand:"
+msgstr ""
+
+#: includes/class-yith-wcbr.php:139
+msgid "Parent brand"
+msgstr ""
+
+#: includes/class-yith-wcbr.php:138
+msgid "New brand name"
+msgstr ""
+
+#: includes/class-yith-wcbr.php:137
+msgid "Add new brand"
+msgstr ""
+
+#: includes/class-yith-wcbr.php:136
+msgid "Update brand"
+msgstr ""
+
+#: includes/class-yith-wcbr.php:135
+msgid "View brand"
+msgstr ""
+
+#: includes/class-yith-wcbr.php:134
+msgid "Edit brand"
+msgstr ""
+
+#: includes/class-yith-wcbr.php:133
+msgid "All brands"
+msgstr ""
+
+#: includes/class-yith-wcbr.php:132
+msgid "Brand"
+msgstr "Merk"
+
+#: includes/class-yith-wcbr-shortcode.php:65
+#: includes/class-yith-wcbr-shortcode.php:122
+msgid "Product ID (leave empty to use global product)"
+msgstr ""
+
+#: includes/class-yith-wcbr-shortcode.php:82
+#: includes/class-yith-wcbr-shortcode.php:85
+#: includes/class-yith-wcbr-shortcode.php:136
+#: includes/class-yith-wcbr-shortcode.php:140
+#: includes/widget/elementor/class-yith-wcbr-elementor-product-brand.php:140
+#: includes/widget/elementor/class-yith-wcbr-elementor-product-brand.php:143
+msgid "Show title"
+msgstr ""
+
+#: includes/class-yith-wcbr-shortcode.php:72
+#: includes/class-yith-wcbr-shortcode.php:75
+#: includes/class-yith-wcbr-shortcode.php:127
+#: includes/class-yith-wcbr-shortcode.php:131
+#: includes/widget/elementor/class-yith-wcbr-elementor-product-brand.php:127
+#: includes/widget/elementor/class-yith-wcbr-elementor-product-brand.php:130
+msgid "Show logo"
+msgstr ""
+
+#: includes/class-yith-wcbr-shortcode.php:58
+#: includes/class-yith-wcbr-shortcode.php:117
+#: includes/widget/elementor/class-yith-wcbr-elementor-product-brand.php:97
+msgid "Title"
+msgstr "Titel"
+
+#: includes/class-yith-wcbr-shortcode.php:52
+#: includes/class-yith-wcbr-shortcode.php:112
+msgid "Adds the brand name and logo for a specific product anywhere you want."
+msgstr "Voegtmerknaam en logo toe voor een specifiek produkt, wanneer u wilt"
+
+#: includes/class-yith-wcbr-shortcode.php:50
+#: includes/class-yith-wcbr-shortcode.php:111
+#: includes/widget/elementor/class-yith-wcbr-elementor-product-brand.php:48
+msgid "YITH Product Brand"
+msgstr "YITH Product Merk"
+
+#: includes/class-yith-wcbr-admin.php:397
+msgid "You have no Brands yet!"
+msgstr ""
+
+#: includes/class-yith-wcbr-admin.php:354 views/add-brand-taxonomy-form.php:18
+#: views/edit-brand-taxonomy-form.php:18
+msgid "Thumbnail"
+msgstr "Thumbnail"
+
+#: includes/class-yith-wcbr-admin.php:323
+msgid "Image"
+msgstr "Afbeelding"
+
+#: includes/class-yith-wcbr-admin.php:226
+msgid "Use image"
+msgstr "Gebruik afbeelding"
+
+#: includes/class-yith-wcbr-admin.php:225
+msgid "Choose an image"
+msgstr "Kies een afbeelding"
+
+#: includes/class-yith-wcbr-admin.php:109
+#: plugin-options/settings-options.php:17
+msgid "General Options"
+msgstr ""
+
+#: includes/class-yith-wcbr-admin.php:110
+#: includes/class-yith-wcbr-shortcode.php:53 includes/class-yith-wcbr.php:131
+#: includes/class-yith-wcbr.php:150
+msgid "Brands"
+msgstr "Merken"

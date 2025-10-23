@@ -1,0 +1,2 @@
+jQuery(document).ready(function($){$(".wcc-sticky-list li").on("click",function(){var selectedItemHTML=$(this).html();$(".wcc-sticky-list").find(".crnt").removeClass("crnt");$(this).addClass("crnt");var code=$(this).data('code');$('.wccs_sticky_form .wcc_switcher').val(code);setTimeout(function(){$('form.wccs_sticky_form').submit()},500)});jQuery('.wcc-sticky-list').slick({vertical:!0,dots:!1,infinite:!1,speed:300,slidesToShow:5,slidesToScroll:5,arrow:!0,prevArrow:'#wccs_sticky_up',nextArrow:'#wccs_sticky_down',})})
+;

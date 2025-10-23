@@ -1,0 +1,190 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AffiliateWP - Signup Referrals\n"
+"POT-Creation-Date: 2016-02-07 18:00+1300\n"
+"PO-Revision-Date: 2018-10-12 09:46+0200\n"
+"Language-Team: AffiliateWP <support@affiliatewp.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n"
+"%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Last-Translator: Dariusz Zielonka <info@dariusz-zielonka.pl>\n"
+"Language: pl_PL\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../affiliatewp-signup-referrals.php:92
+#: ../affiliatewp-signup-referrals.php:104
+msgid "Cheatin&#8217; huh?"
+msgstr "Oszukujemy, co?"
+
+#: ../affiliatewp-signup-referrals.php:265
+msgid "Get more add-ons for AffiliateWP"
+msgstr "Więcej dodatków dla AffiliateWP"
+
+#: ../affiliatewp-signup-referrals.php:265
+msgid "More add-ons"
+msgstr "Więcej dodatków"
+
+#: ../includes/class-activation.php:47
+msgid "This plugin"
+msgstr "Ta wtyczka"
+
+#: ../includes/class-activation.php:82
+#, php-format
+msgid "requires %s. Please activate it to continue."
+msgstr "wymaga %s. Proszę aktywować ją, aby kontynuować."
+
+#: ../includes/class-activation.php:85
+#, php-format
+msgid "requires %s. Please install it to continue."
+msgstr "wymaga %s. Proszę zainstalować go, aby kontynuować."
+
+#: ../includes/class-admin.php:28
+msgid "Signup Referrals"
+msgstr "Polecenia przy rejestracji"
+
+#: ../includes/class-admin.php:34
+msgid "Referral Types"
+msgstr "Rodzaje poleceń"
+
+#: ../includes/class-admin.php:35
+msgid "Select which types of signups should generate a referral"
+msgstr "Wybierz, które typy rejestracji mają generować polecenie"
+
+#: ../includes/class-admin.php:42
+msgid "Referral Status"
+msgstr "Status partnera"
+
+#: ../includes/class-admin.php:43
+msgid "Select the default status the referral will be set to."
+msgstr "Wybierz domyślny status, dla którego zostanie ustawione polecenie."
+
+#: ../includes/class-admin.php:46
+msgid "Pending"
+msgstr "W toku"
+
+#: ../includes/class-admin.php:47
+msgid "Unpaid"
+msgstr "Nieopłacone"
+
+#: ../includes/class-admin.php:54
+msgid "Affiliate Registration - Referral Amount"
+msgstr "Rejestracja Partnera - kwota za polecenie"
+
+#: ../includes/class-admin.php:55
+msgid ""
+"Enter the dollar amount the affiliate should receive when a user registers "
+"as an affiliate."
+msgstr ""
+"Wprowadź kwotę w dolarach, którą partner powinien otrzymać, gdy użytkownik "
+"zarejestruje się jako partner."
+
+#: ../includes/class-admin.php:66
+msgid "EDD - Registration Referral Amount"
+msgstr "EDD - Kwota za rejestrację z polecenia"
+
+#: ../includes/class-admin.php:67
+msgid ""
+"Enter the dollar amount the affiliate should receive if the user registers "
+"for an account through Easy Digital Downloads."
+msgstr ""
+"Wprowadź kwotę w dolarach, którą powinien otrzymać partner, jeśli "
+"użytkownik zarejestruje się na konto poprzez Easy Digital Downloads."
+
+#: ../includes/class-admin.php:75
+msgid "EDD - Disable Checkout Referral"
+msgstr "EDD - Wyłącz polecenie do kasy"
+
+#: ../includes/class-admin.php:76 ../includes/class-admin.php:95
+msgid ""
+"Disables referral creation at checkout if a user registers for an account."
+msgstr ""
+"Wyłącza tworzenie poleceń przy kasie, jeśli użytkownik zarejestruje się na "
+"konto."
+
+#: ../includes/class-admin.php:85
+msgid "WooCommerce - Registration Referral Amount"
+msgstr "WooCommerce - kwota z polecenia do rejestracji"
+
+#: ../includes/class-admin.php:86
+msgid ""
+"Enter the dollar amount the affiliate should receive if the user registers "
+"for an account through WooCommerce."
+msgstr ""
+"Wprowadź kwotę w dolarach, którą partner powinien otrzymać, jeśli "
+"użytkownik zarejestruje się na konto poprzez WooCommerce."
+
+#: ../includes/class-admin.php:94
+msgid "WooCommerce - Disable Checkout Referral"
+msgstr "WooCommerce - Wyłącz polecenie do kasy"
+
+#: ../includes/class-admin.php:104
+msgid "Gravity Forms - User Registration Referral Amount"
+msgstr "Gravity Forms - kwota z polecenia do rejestracji"
+
+#: ../includes/class-admin.php:105
+msgid ""
+"Enter the dollar amount the affiliate should receive if the user registers "
+"for an account through the Gravity Forms User Registration add-on."
+msgstr ""
+"Wprowadź kwotę w dolarach, którą partner powinien otrzymać, jeśli "
+"użytkownik zarejestruje się na konto za pośrednictwem dodatku Gravity "
+"Forms User Registration."
+
+#: ../includes/class-admin.php:116
+msgid "Ultimate Member - Registration Referral Amount"
+msgstr "Ultimate Member - kwota z polecenia do rejestracji"
+
+#: ../includes/class-admin.php:117
+msgid ""
+"Enter the dollar amount the affiliate should receive if the user registers "
+"for an account through Ultimate Member"
+msgstr ""
+"Wprowadź kwotę w dolarach, którą partner powinien otrzymać, jeśli "
+"użytkownik zarejestruje się na konto za pośrednictwem dodatku Ultimate "
+"Member"
+
+#: ../includes/class-admin.php:127
+msgid "User Pro - Registration Referral Amount"
+msgstr "User Pro - kwota z polecenia do rejestracji"
+
+#: ../includes/class-admin.php:128
+msgid ""
+"Enter the dollar amount the affiliate should receive if the user registers "
+"for an account through User Pro"
+msgstr ""
+"Wprowadź kwotę w dolarach, którą partner powinien otrzymać, jeśli "
+"użytkownik zarejestruje się na konto za pośrednictwem dodatku User Pro"
+
+#: ../includes/class-admin.php:155
+msgid "Referring Affiliate"
+msgstr "Polecający Partner"
+
+#: ../includes/class-base.php:215 ../includes/functions.php:67
+msgid "Easy Digital Downloads Registration"
+msgstr "Rejestracja Easy Digital Downloads"
+
+#: ../includes/class-base.php:219 ../includes/functions.php:72
+msgid "WooCommerce Registration"
+msgstr "Rejestracja WooCommerce"
+
+#: ../includes/class-base.php:223 ../includes/functions.php:62
+msgid "Affiliate Registration"
+msgstr "Rejestracja partnerów"
+
+#: ../includes/class-base.php:227 ../includes/functions.php:76
+msgid "Gravity Forms User Registration"
+msgstr "Rejestracja Gravity Forms"
+
+#: ../includes/class-base.php:231 ../includes/functions.php:80
+msgid "Ultimate Member Registration"
+msgstr "Rejestracja UM"
+
+#: ../includes/class-base.php:235 ../includes/functions.php:84
+msgid "User Pro Registration"
+msgstr "Rejestracja User Pro"

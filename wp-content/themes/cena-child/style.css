@@ -1,0 +1,15 @@
+/**
+* Theme Name: Cena Child
+* Description: This is a child theme for Cena
+* Author: Thembay
+* Author URI: https://thembay.com/
+* Version: 2.11.31
+* Template: cena
+*/
+
+
+/*  [ Add your custom css below ]
+- - - - - - - - - - - - - - - - - - - - */
+.meta-info a {
+	color: black;
+}

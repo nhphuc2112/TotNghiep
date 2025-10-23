@@ -1,0 +1,79 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: AffiliateWP - Starting Affiliate ID\n"
+"POT-Creation-Date: 2019-07-12 09:58+1200\n"
+"PO-Revision-Date: 2015-04-04 11:12-0600\n"
+"Last-Translator: Andrew Munro, Sumobi <andrew@sumobi.com>\n"
+"Language-Team: AffiliateWP <support@affiliatewp.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e;esc_html__;esc_html_e;_x;_ex;esc_attr_x;esc_html_x;_n;_nx;_n_noop;_nx_noop\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../affiliatewp-starting-affiliate-id.php:171
+msgid "This plugin is not fully active."
+msgstr ""
+
+#: ../affiliatewp-starting-affiliate-id.php:182
+#, php-format
+msgid "Requires %s (%s), but (%s) is installed."
+msgstr ""
+
+#: ../affiliatewp-starting-affiliate-id.php:193
+#, php-format
+msgid "Requires %s (%s), but it appears to be missing."
+msgstr ""
+
+#: ../affiliatewp-starting-affiliate-id.php:204
+msgid "Requirements"
+msgstr ""
+
+#: ../affiliatewp-starting-affiliate-id.php:215
+msgid "AffiliateWP - Starting Affiliate ID Requirements"
+msgstr ""
+
+#: ../includes/class-activation.php:79
+msgid "This plugin"
+msgstr ""
+
+#: ../includes/class-activation.php:114
+#, php-format
+msgid "%1$s requires %2$s. Please activate it to continue."
+msgstr ""
+
+#: ../includes/class-activation.php:119
+#, php-format
+msgid "%1$s requires %2$s. Please install it to continue."
+msgstr ""
+
+#: ../includes/class-admin.php:157
+msgid "The minimum ID to use for new affiliate registrations. Note: this number can only ever be greater than the ID used for the most recent affiliate."
+msgstr ""
+
+#: ../includes/class-admin.php:160
+msgid "The starting ID to use once affiliate registrations begin. Note: this number can only ever be greater than the ID used for the most recent affiliate."
+msgstr ""
+
+#: ../includes/class-admin.php:166
+msgid "Starting Affiliate ID"
+msgstr ""
+
+#: ../includes/class-affiliatewp-starting-affiliate-id.php:121
+#: ../includes/class-affiliatewp-starting-affiliate-id.php:133
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: ../includes/class-affiliatewp-starting-affiliate-id.php:284
+msgid "Get more add-ons for AffiliateWP"
+msgstr ""
+
+#: ../includes/class-affiliatewp-starting-affiliate-id.php:284
+msgid "More add-ons"
+msgstr ""

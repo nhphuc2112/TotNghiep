@@ -1,0 +1,86 @@
+2025-10-15T03:44:27+00:00 ERROR Automattic\WooCommerce\GoogleListingsAndAds\API\Google\MerchantPriceBenchmarks::get_price_comparisons_data {
+  "error": {
+    "code": 400,
+    "message": "Market Insights is not enabled for account 5668957343.",
+    "errors": [
+      {
+        "message": "Market Insights is not enabled for account 5668957343.",
+        "domain": "global",
+        "reason": "failedPrecondition"
+      }
+    ],
+    "status": "FAILED_PRECONDITION",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "conditionNotMet",
+        "domain": "global"
+      }
+    ]
+  }
+}
+2025-10-15T03:44:27+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\MerchantCenter\PriceBenchmarks::update_price_benchmarks Unable to retrieve price benchmark data
+2025-10-15T04:25:13+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 6408): ["Loa Bluetooth"].
+2025-10-15T04:25:13+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 6337): ["RAM"].
+2025-10-15T04:25:13+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 6290): ["M\u00e0n h\u00ecnh"].
+2025-10-15T04:25:13+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 6288): ["M\u00e0n h\u00ecnh"].
+2025-10-15T04:25:13+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 6253): ["CPU"].
+2025-10-15T04:25:13+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 6246): ["M\u00e0n h\u00ecnh"].
+2025-10-15T04:25:29+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 6408): ["Loa Bluetooth"].
+2025-10-15T04:25:32+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":6408,"google_id":"online:vi:VN:gla_6408"}]
+2025-10-15T13:04:59+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 6408): ["Loa Bluetooth"].
+2025-10-15T13:04:59+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 6337): ["RAM"].
+2025-10-15T13:04:59+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 6290): ["M\u00e0n h\u00ecnh"].
+2025-10-15T13:04:59+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 6288): ["M\u00e0n h\u00ecnh"].
+2025-10-15T13:04:59+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 6253): ["CPU"].
+2025-10-15T13:05:00+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 6246): ["M\u00e0n h\u00ecnh"].
+2025-10-15T13:07:06+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\API\WP\NotificationsService::notify Notification - Item ID: 6246 - Topic: product.update - Data []
+2025-10-15T13:07:06+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 6246): ["M\u00e0n h\u00ecnh"].
+2025-10-15T13:07:06+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 6246): ["M\u00e0n h\u00ecnh"].
+2025-10-15T13:07:06+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 6246): ["M\u00e0n h\u00ecnh"].
+2025-10-15T13:07:06+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 6246): ["M\u00e0n h\u00ecnh"].
+2025-10-15T13:07:08+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 4 products:
+[{"woocommerce_id":6248,"google_id":"online:vi:VN:gla_6248"},{"woocommerce_id":6249,"google_id":"online:vi:VN:gla_6249"},{"woocommerce_id":6250,"google_id":"online:vi:VN:gla_6250"},{"woocommerce_id":6251,"google_id":"online:vi:VN:gla_6251"}]
+2025-10-15T13:07:08+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\API\WP\NotificationsService::notify Notification - Item ID: 6288 - Topic: product.update - Data []
+2025-10-15T13:07:08+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 6288): ["M\u00e0n h\u00ecnh"].
+2025-10-15T13:07:10+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":6288,"google_id":"online:vi:VN:gla_6288"}]
+2025-10-15T13:07:10+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\API\WP\NotificationsService::notify Notification - Item ID: 6253 - Topic: product.update - Data []
+2025-10-15T13:07:10+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 6253): ["CPU"].
+2025-10-15T13:07:11+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":6253,"google_id":"online:vi:VN:gla_6253"}]
+2025-10-15T13:07:12+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\API\WP\NotificationsService::notify Notification - Item ID: 6408 - Topic: product.update - Data []
+2025-10-15T13:07:12+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 6408): ["Loa Bluetooth"].
+2025-10-15T13:07:13+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":6408,"google_id":"online:vi:VN:gla_6408"}]
+2025-10-15T13:07:14+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\API\WP\NotificationsService::notify Notification - Item ID: 6290 - Topic: product.update - Data []
+2025-10-15T13:07:14+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 6290): ["M\u00e0n h\u00ecnh"].
+2025-10-15T13:07:15+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":6290,"google_id":"online:vi:VN:gla_6290"}]
+2025-10-15T13:07:16+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\API\WP\NotificationsService::notify Notification - Item ID: 6337 - Topic: product.update - Data []
+2025-10-15T13:07:16+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 6337): ["RAM"].
+2025-10-15T13:07:17+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":6337,"google_id":"online:vi:VN:gla_6337"}]
+2025-10-15T16:28:58+00:00 ERROR Automattic\WooCommerce\GoogleListingsAndAds\API\Google\MerchantPriceBenchmarks::get_price_comparisons_data {
+  "error": {
+    "code": 400,
+    "message": "Market Insights is not enabled for account 5668957343.",
+    "errors": [
+      {
+        "message": "Market Insights is not enabled for account 5668957343.",
+        "domain": "global",
+        "reason": "failedPrecondition"
+      }
+    ],
+    "status": "FAILED_PRECONDITION",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "conditionNotMet",
+        "domain": "global"
+      }
+    ]
+  }
+}
+2025-10-15T16:28:58+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\MerchantCenter\PriceBenchmarks::update_price_benchmarks Unable to retrieve price benchmark data
