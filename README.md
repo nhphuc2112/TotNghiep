@@ -1,5 +1,6 @@
 # TotNghiep
 Đồ án xây dựng website bán linh kiện máy tính của Nguyễn Hữu Phúc
+
 ![GitHub last commit](https://img.shields.io/github/last-commit/nhphuc2112/TotNghiep)  
 ![GitHub repo size](https://img.shields.io/github/repo-size/nhphuc2112/TotNghiep)  
 ![GitHub license](https://img.shields.io/github/license/nhphuc2112/TotNghiep)
@@ -46,5 +47,7 @@ Project này được cấp phép theo **GNU GPL v3.0** — xem file [LICENSE](L
 ## 📝 Liên hệ
 
 Người thực hiện: **Nguyễn Hữu Phúc**
+
 Email: **nguyenhuuphuc.nhp210@gmail.com**
+
 GitHub: [nhphuc2112](https://github.com/nhphuc2112)
