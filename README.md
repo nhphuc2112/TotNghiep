@@ -1,11 +1,11 @@
 # TotNghiep
 Đồ án xây dựng website bán linh kiện máy tính của Nguyễn Hữu Phúc
-
-```markdown
-# 🚀 TotNghiep – Website bán linh kiện máy tính  
 ![GitHub last commit](https://img.shields.io/github/last-commit/nhphuc2112/TotNghiep)  
 ![GitHub repo size](https://img.shields.io/github/repo-size/nhphuc2112/TotNghiep)  
 ![GitHub license](https://img.shields.io/github/license/nhphuc2112/TotNghiep)
+
+```markdown
+# 🚀 TotNghiep – Website bán linh kiện máy tính  
 
 ## 🧑‍💻 Giới thiệu  
 Họ và tên: **Nguyễn Hữu Phúc**.  
@@ -26,11 +26,11 @@ cd TotNghiep
 - Trên hosting CPanel/Direct/...
     + Trỏ domain về hosting
     + Cài đặt SSL
-    + Tạo database và import file [text](dichvup1_wp_jcx49.sql)
+    + Tạo database và import file [sql](dichvup1_wp_jcx49.sql)
     + Pull source về local sau đó upload lên hosting file manager với file nén Zip/RAR/TAR/...
     + Giải nén ra sau đó config database tại wp-config.php
     + Truy cập vào table **OmhTlY_options** và chỉnh lại tên miền của website
-    + Truy cập vào admin dashboard với **https://website.domain//wp-admin**
+    + Truy cập vào admin dashboard với **https://website.domain/wp-admin**
     + Tài khoản đăng nhập admin: nguyenhuuphuc@dichvupc.com | PhucNguyen2112@@
 - Trên Xampp/IIS/...
     + Tạo database và import file [text](dichvup1_wp_jcx49.sql)
