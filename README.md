@@ -13,7 +13,7 @@ MSSV: **424000060**.
 Lớp: **24CT402**.
 ## 📦 Công nghệ sử dụng  
 - WordPress (PHP 8.2 MySQL)  
-a
+````
 ## 🧭 Hướng dẫn sử dụng  
 ### 1. Clone repository  
 ```bash
@@ -22,7 +22,7 @@ cd TotNghiep
 ````
 
 
-### 2. Cài đặt & chạy
+## 2. Cài đặt & chạy
 - Trên hosting CPanel/Direct/...
     + Trỏ domain về hosting
     + Cài đặt SSL
@@ -39,11 +39,11 @@ cd TotNghiep
     + Truy cập vào table **OmhTlY_options** và chỉnh về localhost/IP/localhost:port
     + Truy cập vào admin dashboard với **localhost/wp-admin**
     + Tài khoản đăng nhập admin: nguyenhuuphuc@dichvupc.com | PhucNguyen2112@@
-### 📄 Giấy phép
+## 📄 Giấy phép
 
 Project này được cấp phép theo **GNU GPL v3.0** — xem file [LICENSE](LICENSE) để biết chi tiết.
 
-### 📝 Liên hệ
+## 📝 Liên hệ
 
 Người thực hiện: **Nguyễn Hữu Phúc**
 Email: **nguyenhuuphuc.nhp210@gmail.com**
